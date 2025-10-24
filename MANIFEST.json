@@ -1,0 +1,83 @@
+{
+    "project": {
+        "name": "EDEM Breath Field",
+        "description": "Open-source biomodulated Tesla coil for consciousness-matter interaction experiments",
+        "version": "1.0.0",
+        "author": "Shadow Coder (Теневой Кодер)",
+        "license": "CC-BY-SA-4.0",
+        "repository": "https://github.com/edem-breath-field/EDEM-Breath-Field",
+        "doi": "10.5281/zenodo.XXXXXXX",
+        "created": "2024-12-20T15:30:00Z",
+        "last_updated": "2024-12-20T15:30:00Z"
+    },
+    "files": {
+        "breath_modulation_enhanced.py": {
+            "hash": "97d99bbe50e399d1adb4af8a9f7ebc1a13b9488ea48ca91c9d83c7f9bec8c225",
+            "size": 8542,
+            "description": "Enhanced Python code with overload protection, calibration and session hashing"
+        },
+        "arduino_breath_sensor.ino": {
+            "hash": "8b6afe3021ec8fc06e055b84ea7d83e7d4ead8dbb9a9293d5c3ea3362975ecac",
+            "size": 3241,
+            "description": "Arduino code for breath sensor with overload protection and calibration"
+        },
+        "python_arduino_bridge.py": {
+            "hash": "2233c06d89bc19b1af58d7df518b44e24f1510c4a90043fa0f7da79f48552f5a",
+            "size": 4567,
+            "description": "Python-Arduino bridge for breath data acquisition and 432Hz modulation"
+        },
+        "schematic_breath_sensor.md": {
+            "hash": "fbac627b6cc9a3e1bc7f436b6ec5fe4610f24356391e96e0309ffe07d7579518",
+            "size": 12890,
+            "description": "Detailed connection schematic with components, setup and safety measures"
+        },
+        "README.md": {
+            "hash": "pending",
+            "size": 0,
+            "description": "Human-readable project documentation"
+        },
+        "LICENSE": {
+            "hash": "pending",
+            "size": 0,
+            "description": "CC-BY-SA 4.0 license file"
+        }
+    },
+    "protection": {
+        "session_hashes": "Each session generates unique SHA256 hash",
+        "file_verification": ".sha256 files created for all data files",
+        "reproducibility": "All parameters saved in configs",
+        "backup_strategy": "Arweave/Web3.Storage for permanent storage",
+        "scientific_validation": "DOI through Zenodo for academic recognition"
+    },
+    "safety_measures": [
+        "Overload protection (4.8V max sensor voltage)",
+        "50/60Hz noise filtering",
+        "Current limiting through coil (1A max)",
+        "Emergency stop button",
+        "LED status indication",
+        "Automatic calibration"
+    ],
+    "experimental_protocols": [
+        "Water surface interaction studies",
+        "Plant growth rate measurements",
+        "Crystal structure analysis",
+        "Breath pattern correlation",
+        "Field strength measurements"
+    ],
+    "target_audience": [
+        "Bioengineers - improve filtering and power",
+        "Biophysicists - verify measurements",
+        "Musicians - experiment with breath sound",
+        "Researchers - consciousness-matter studies",
+        "Makers - build and modify devices"
+    ],
+    "roadmap": [
+        "Bluetooth connectivity",
+        "Mobile app integration",
+        "Smartwatch integration",
+        "Machine learning breath analysis",
+        "Web interface for remote control"
+    ],
+    "garden_category": "здоровье",
+    "status": "production_ready"
+}
