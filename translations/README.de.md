@@ -11,6 +11,7 @@ E_life = A · R · L - S
 ```
 
 Wobei:
+
 - **A** = Aufmerksamkeit (konzentrierte Energie)
 - **R** = Resonanz (Phasenausrichtung)
 - **L** = Liebe (Kohärenzfeld)
@@ -32,17 +33,20 @@ Wobei:
 ## Was Kann Getestet Werden?
 
 ### 1. Atem-Feld-Experiment
+
 Spule moduliert durch menschlichen Atem → beeinflusst Wasser, Pflanzen, Kristalle.
 
 **Budget:** ~$25  
 **Zeit:** 2-3 Stunden Montage + 10 Minuten Experiment
 
 ### 2. Bio-Lebende Gärten
+
 Schichten: Zweige → Gras → Mist → Asche → Fermentation 7 Tage.
 
 **Ergebnis:** +200-300% Ertrag (behauptet)
 
 ### 3. Musik 432 Hz vs 440 Hz
+
 Wirkung auf Pflanzen, Wasser, menschliche HRV.
 
 **Zeit:** 21 Tage Beobachtungen
@@ -72,4 +76,3 @@ Wir entwickeln Technologien durch Bewusstsein, nicht durch Macht.
 CC BY-SA 4.0 — freie Nutzung mit Namensnennung.
 
 Physik des Lebens ist offene Wissenschaft. Alles hier kann überprüft, repliziert und verbessert werden.
-

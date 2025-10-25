@@ -11,6 +11,7 @@ E_life = A · R · L - S
 ```
 
 Trong đó:
+
 - **A** = Chú ý (năng lượng tập trung)
 - **R** = Cộng hưởng (căn chỉnh pha)
 - **L** = Tình yêu (trường kết hợp)
@@ -32,17 +33,20 @@ Trong đó:
 ## Có Thể Kiểm Tra Gì?
 
 ### 1. Thí Nghiệm Trường-Hơi Thở
+
 Cuộn dây được điều chế bởi hơi thở con người → ảnh hưởng nước, cây, tinh thể.
 
 **Ngân sách:** ~$25  
 **Thời gian:** 2-3 giờ lắp ráp + 10 phút thí nghiệm
 
 ### 2. Vườn Sinh Học Sống
+
 Lớp: cành cây → cỏ → phân → tro → lên men 7 ngày.
 
 **Kết quả:** +200-300% năng suất (tuyên bố)
 
 ### 3. Âm Nhạc 432 Hz vs 440 Hz
+
 Ảnh hưởng đến cây, nước, HRV con người.
 
 **Thời gian:** 21 ngày quan sát
@@ -72,4 +76,3 @@ Chúng tôi phát triển công nghệ thông qua ý thức, không phải qua q
 CC BY-SA 4.0 — sử dụng tự do với ghi nguồn.
 
 Vật Lý Sống là khoa học mở. Mọi thứ ở đây đều có thể được xác minh, sao chép và cải thiện.
-

@@ -11,6 +11,7 @@ E_life = A · R · L - S
 ```
 
 Où :
+
 - **A** = Attention (énergie concentrée)
 - **R** = Résonance (alignement de phase)
 - **L** = Amour (champ de cohérence)
@@ -32,17 +33,20 @@ Où :
 ## Que Peut-On Tester ?
 
 ### 1. Expérience Champ-Souffle
+
 Bobine modulée par la respiration humaine → affecte l'eau, les plantes, les cristaux.
 
 **Budget :** ~25$  
 **Temps :** 2-3 heures assemblage + 10 minutes expérience
 
 ### 2. Jardins Bio-Vivants
+
 Couches : branches → herbe → fumier → cendre → fermentation 7 jours.
 
 **Résultat :** +200-300% rendement (revendiqué)
 
 ### 3. Musique 432 Hz vs 440 Hz
+
 Effet sur les plantes, l'eau, la VRC humaine.
 
 **Temps :** 21 jours d'observations
@@ -72,4 +76,3 @@ Nous développons les technologies par la conscience, non par le pouvoir.
 CC BY-SA 4.0 — utilisation libre avec attribution.
 
 La Physique de la Vie est une science ouverte. Tout ici peut être vérifié, répliqué et amélioré.
-

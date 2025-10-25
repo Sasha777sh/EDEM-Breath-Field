@@ -56,4 +56,3 @@ We welcome translations to other languages!
 All translations are under CC BY-SA 4.0, same as original.
 
 Все переводы под лицензией CC BY-SA 4.0, как и оригинал.
-

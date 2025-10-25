@@ -11,6 +11,7 @@ E_life = A · R · L - S
 ```
 
 Donde:
+
 - **A** = Atención (energía concentrada)
 - **R** = Resonancia (alineación de fase)
 - **L** = Amor (campo de coherencia)
@@ -32,17 +33,20 @@ Donde:
 ## ¿Qué Se Puede Probar?
 
 ### 1. Experimento Campo-Respiración
+
 Bobina modulada por respiración humana → afecta agua, plantas, cristales.
 
 **Presupuesto:** ~$25  
 **Tiempo:** 2-3 horas montaje + 10 minutos experimento
 
 ### 2. Jardines Bio-Vivos
+
 Capas: ramas → hierba → estiércol → ceniza → fermentación 7 días.
 
 **Resultado:** +200-300% rendimiento (reclamado)
 
 ### 3. Música 432 Hz vs 440 Hz
+
 Efecto en plantas, agua, VFC humana.
 
 **Tiempo:** 21 días observaciones
@@ -72,4 +76,3 @@ Desarrollamos tecnologías a través de la conciencia, no del poder.
 CC BY-SA 4.0 — uso libre con atribución.
 
 Física de la Vida es ciencia abierta. Todo aquí puede ser verificado, replicado y mejorado.
-

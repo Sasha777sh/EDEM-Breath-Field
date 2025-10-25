@@ -11,6 +11,7 @@ E_life = A · R · L - S
 ```
 
 Where:
+
 - **A** = Attention (concentrated energy)
 - **R** = Resonance (phase alignment)
 - **L** = Love (coherence field)
@@ -32,17 +33,20 @@ Where:
 ## What Can Be Tested?
 
 ### 1. Breath-Field Experiment
+
 Coil modulated by human breath → affects water, plants, crystals.
 
 **Budget:** ~$25  
 **Time:** 2-3 hours assembly + 10 minutes experiment
 
 ### 2. Bio-Living Gardens
+
 Layers: branches → grass → manure → ash → fermentation 7 days.
 
 **Result:** +200-300% yield (claimed)
 
 ### 3. Music 432 Hz vs 440 Hz
+
 Effect on plants, water, human HRV.
 
 **Time:** 21 days observations
@@ -72,4 +76,3 @@ We develop technologies through consciousness, not through power.
 CC BY-SA 4.0 — free use with attribution.
 
 Physics of Life is open science. Everything here can be verified, replicated and improved.
-

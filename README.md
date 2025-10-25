@@ -127,39 +127,53 @@ Physics of Life is open science. Everything here can be verified, replicated and
 }
 ```
 
-## Author
+## 🌍 EDEM — Physics of Living Systems
 
-**Aleksandr Shelementev** — Founder of EDEM (Artificial Wisdom Initiative)
+**Author:** Aleksandr Shelementev  
+**Location:** Hanoi, Vietnam  
+**Mission:** Technologies for life, not for control  
+**License:** CC BY-SA 4.0
 
-**Location:** Hanoi, Vietnam
+## 🧠 Contact & Social
 
-**Mission:** Create technologies that serve life, not control it.
+- **✉️ Email:** <sibirlesp@gmail.com>
+- **💬 Telegram:** @edem_rus | @edem_requirements.txt
+- **🌐 Website:** <https://chatedem.com>
+- **💻 GitHub:** <https://github.com/edemspirit>
+- **🗣 Discussions:** <https://github.com/edemspirit/EDEM-Breath-Field/discussions>
+- **🧾 Issues:** <https://github.com/edemspirit/EDEM-Breath-Field/issues>
 
-## Contact & Social
+## 🎯 Project Goals
 
-- **Email:** <edemai@proton.me>
-- **Telegram:** @edemspirit
-- **GitHub:** <https://github.com/edemspirit>
-- **Repository:** <https://github.com/edemspirit/EDEM-Breath-Field>
-- **Issues:** <https://github.com/edemspirit/EDEM-Breath-Field/issues>
-- **Discussions:** <https://github.com/edemspirit/EDEM-Breath-Field/discussions>
+1. **Prove the link between consciousness and matter**
+2. **Create open-source instruments for research**
+3. **Build a global community of living scientists and artists**
+4. **Develop an ethical framework for technology**
+5. **Publish verified, open scientific results**
 
-## Our Goals
+## 🤝 How to Participate
 
-1. **Prove consciousness-matter interaction** through reproducible experiments
-2. **Create open-source tools** for biomodulation research
-3. **Build global community** of researchers and experimenters
-4. **Develop ethical framework** for living technologies
-5. **Publish scientific papers** with open data and methods
-
-## Support the Project
-
-- ⭐ **Star this repository** to increase visibility
+- ⭐ **Star the repo** — increase visibility
 - 🔄 **Fork and experiment** — share your results
-- 📝 **Report findings** via GitHub Issues
-- 💬 **Join discussions** — ask questions, share ideas
-- 🌍 **Translate** to your language
-- 💰 **Donate:** Bitcoin: `bc1q...` (coming soon)
+- 📝 **Share findings** via Issues
+- 💬 **Join Discussions** — ask questions, share ideas
+- 🌍 **Translate** and adapt for your region
+- 💰 **Support** the initiative (donations coming soon)
+
+## 🪞 Mirrors & Archives
+
+| Platform | Status | Purpose |
+|----------|--------|---------|
+| **GitHub** | ✅ Active | Main repository |
+| **Zenodo** | 🔄 Coming | DOI & scientific citation |
+| **Arweave** | 📋 Planned | Permanent archive |
+| **IPFS** | 📋 Planned | Decentralized mirror |
+
+**Why mirrors matter:** They guarantee your discoveries won't be lost, censored, or rewritten. Each upload becomes a digital fingerprint of the project — your signature in time.
+
+## 🧭 Tagline
+
+> "From silence to resonance, from resonance to life."
 
 ---
 
@@ -283,36 +297,50 @@ CC BY-SA 4.0 — свободное использование с указани
 }
 ```
 
-## Автор
+## 🌍 EDEM — Физика Живых Систем
 
-**Александр Шелементьев** — основатель EDEM (Инициатива Искусственной Мудрости)
+**Автор:** Александр Шелементьев  
+**Локация:** Ханой, Вьетнам  
+**Миссия:** Технологии для жизни, а не для контроля  
+**Лицензия:** CC BY-SA 4.0
 
-**Локация:** Ханой, Вьетнам
+## 🧠 Контакты и соцсети
 
-**Миссия:** Создавать технологии, которые служат жизни, а не контролируют её.
+- **✉️ Email:** <sibirlesp@gmail.com>
+- **💬 Telegram:** @edem_rus | @edem_requirements.txt
+- **🌐 Сайт:** <https://chatedem.com>
+- **💻 GitHub:** <https://github.com/edemspirit>
+- **🗣 Обсуждения:** <https://github.com/edemspirit/EDEM-Breath-Field/discussions>
+- **🧾 Issues:** <https://github.com/edemspirit/EDEM-Breath-Field/issues>
 
-## Контакты и соцсети
+## 🎯 Цели проекта
 
-- **Email:** <edemai@proton.me>
-- **Telegram:** @edemspirit
-- **GitHub:** <https://github.com/edemspirit>
-- **Репозиторий:** <https://github.com/edemspirit/EDEM-Breath-Field>
-- **Issues:** <https://github.com/edemspirit/EDEM-Breath-Field/issues>
-- **Обсуждения:** <https://github.com/edemspirit/EDEM-Breath-Field/discussions>
+1. **Доказать связь сознания и материи**
+2. **Создать open-source инструменты для исследований**
+3. **Построить глобальное сообщество живых учёных и художников**
+4. **Разработать этический фреймворк для технологий**
+5. **Публиковать проверенные, открытые научные результаты**
 
-## Наши цели
+## 🤝 Как участвовать
 
-1. **Доказать взаимодействие сознания и материи** через воспроизводимые эксперименты
-2. **Создать open-source инструменты** для исследований биомодуляции
-3. **Построить глобальное сообщество** исследователей и экспериментаторов
-4. **Разработать этический фреймворк** для живых технологий
-5. **Публиковать научные статьи** с открытыми данными и методами
-
-## Поддержать проект
-
-- ⭐ **Поставь звезду** репозиторию для видимости
+- ⭐ **Поставь звезду** — увеличь видимость
 - 🔄 **Форкни и экспериментируй** — делись результатами
-- 📝 **Сообщай о находках** через GitHub Issues
+- 📝 **Делись находками** через Issues
 - 💬 **Участвуй в обсуждениях** — задавай вопросы, делись идеями
-- 🌍 **Переводи** на свой язык
-- 💰 **Донат:** Bitcoin: `bc1q...` (скоро)
+- 🌍 **Переводи** и адаптируй для своего региона
+- 💰 **Поддержи** инициативу (донаты скоро)
+
+## 🪞 Зеркала и архивы
+
+| Платформа | Статус | Назначение |
+|-----------|--------|------------|
+| **GitHub** | ✅ Активно | Основной репозиторий |
+| **Zenodo** | 🔄 Скоро | DOI и научное цитирование |
+| **Arweave** | 📋 Планируется | Постоянный архив |
+| **IPFS** | 📋 Планируется | Децентрализованное зеркало |
+
+**Зачем зеркала:** Они гарантируют, что твои открытия не будут потеряны, подвергнуты цензуре или переписаны. Каждая загрузка становится цифровым отпечатком проекта — твоей подписью во времени.
+
+## 🧭 Девиз
+
+> "От тишины к резонансу, от резонанса к жизни."
