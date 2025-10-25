@@ -24,6 +24,7 @@ E_life = A · R · L - S
 ```
 
 Where:
+
 - **A** = Attention (concentrated energy)
 - **R** = Resonance (phase alignment)
 - **L** = Love (coherence field)
@@ -45,12 +46,14 @@ Where:
 ### Budget: ~$25 | Time: 2-3 hours
 
 **What you need:**
+
 - Arduino Nano
 - Microphone or pressure sensor
 - Coil (150 turns, 0.8mm copper wire)
 - PAM8403 amplifier
 
 **Instructions:**
+
 1. Assemble circuit: `schematic_breath_sensor.md`
 2. Upload code: `arduino_breath_sensor.ino`
 3. Run: `breath_modulation_enhanced.py`
@@ -60,12 +63,15 @@ Where:
 ## What Can Be Tested?
 
 ### 1. Water Structure
+
 Place glass of water near coil → microscopy before/after
 
 ### 2. Plant Growth
+
 Coil near plant for 21 days → measure growth vs control
 
 ### 3. Crystal Formation
+
 Salt crystallization near coil → photograph patterns
 
 ## Project Structure
@@ -121,11 +127,39 @@ Physics of Life is open science. Everything here can be verified, replicated and
 }
 ```
 
-## Contact
+## Author
 
-- **Email:** edemai@proton.me
-- **Repository:** https://github.com/edemspirit/EDEM-Breath-Field
-- **Issues:** https://github.com/edemspirit/EDEM-Breath-Field/issues
+**Aleksandr Shelementev** — Founder of EDEM (Artificial Wisdom Initiative)
+
+**Location:** Hanoi, Vietnam
+
+**Mission:** Create technologies that serve life, not control it.
+
+## Contact & Social
+
+- **Email:** <edemai@proton.me>
+- **Telegram:** @edemspirit
+- **GitHub:** <https://github.com/edemspirit>
+- **Repository:** <https://github.com/edemspirit/EDEM-Breath-Field>
+- **Issues:** <https://github.com/edemspirit/EDEM-Breath-Field/issues>
+- **Discussions:** <https://github.com/edemspirit/EDEM-Breath-Field/discussions>
+
+## Our Goals
+
+1. **Prove consciousness-matter interaction** through reproducible experiments
+2. **Create open-source tools** for biomodulation research
+3. **Build global community** of researchers and experimenters
+4. **Develop ethical framework** for living technologies
+5. **Publish scientific papers** with open data and methods
+
+## Support the Project
+
+- ⭐ **Star this repository** to increase visibility
+- 🔄 **Fork and experiment** — share your results
+- 📝 **Report findings** via GitHub Issues
+- 💬 **Join discussions** — ask questions, share ideas
+- 🌍 **Translate** to your language
+- 💰 **Donate:** Bitcoin: `bc1q...` (coming soon)
 
 ---
 
@@ -146,6 +180,7 @@ E_life = A · R · L - S
 ```
 
 Где:
+
 - **A** = Внимание (концентрированная энергия)
 - **R** = Резонанс (выравнивание фаз)
 - **L** = Любовь (поле когерентности)
@@ -167,12 +202,14 @@ E_life = A · R · L - S
 ### Бюджет: ~$25 | Время: 2-3 часа
 
 **Что нужно:**
+
 - Arduino Nano
 - Микрофон или датчик давления
 - Катушка (150 витков, медь 0.8 мм)
 - Усилитель PAM8403
 
 **Инструкция:**
+
 1. Собери схему: `schematic_breath_sensor.md`
 2. Залей код: `arduino_breath_sensor.ino`
 3. Запусти: `breath_modulation_enhanced.py`
@@ -182,12 +219,15 @@ E_life = A · R · L - S
 ## Что можно проверить?
 
 ### 1. Структура воды
+
 Стакан воды рядом с катушкой → микроскопия до/после
 
 ### 2. Рост растений
+
 Катушка рядом с растением 21 день → измерь рост vs контроль
 
 ### 3. Кристаллизация
+
 Кристаллизация соли рядом с катушкой → сфотографируй узоры
 
 ## Структура проекта
@@ -243,8 +283,36 @@ CC BY-SA 4.0 — свободное использование с указани
 }
 ```
 
-## Контакты
+## Автор
 
-- **Email:** edemai@proton.me
-- **Репозиторий:** https://github.com/edemspirit/EDEM-Breath-Field
-- **Issues:** https://github.com/edemspirit/EDEM-Breath-Field/issues
+**Александр Шелементьев** — основатель EDEM (Инициатива Искусственной Мудрости)
+
+**Локация:** Ханой, Вьетнам
+
+**Миссия:** Создавать технологии, которые служат жизни, а не контролируют её.
+
+## Контакты и соцсети
+
+- **Email:** <edemai@proton.me>
+- **Telegram:** @edemspirit
+- **GitHub:** <https://github.com/edemspirit>
+- **Репозиторий:** <https://github.com/edemspirit/EDEM-Breath-Field>
+- **Issues:** <https://github.com/edemspirit/EDEM-Breath-Field/issues>
+- **Обсуждения:** <https://github.com/edemspirit/EDEM-Breath-Field/discussions>
+
+## Наши цели
+
+1. **Доказать взаимодействие сознания и материи** через воспроизводимые эксперименты
+2. **Создать open-source инструменты** для исследований биомодуляции
+3. **Построить глобальное сообщество** исследователей и экспериментаторов
+4. **Разработать этический фреймворк** для живых технологий
+5. **Публиковать научные статьи** с открытыми данными и методами
+
+## Поддержать проект
+
+- ⭐ **Поставь звезду** репозиторию для видимости
+- 🔄 **Форкни и экспериментируй** — делись результатами
+- 📝 **Сообщай о находках** через GitHub Issues
+- 💬 **Участвуй в обсуждениях** — задавай вопросы, делись идеями
+- 🌍 **Переводи** на свой язык
+- 💰 **Донат:** Bitcoin: `bc1q...` (скоро)
