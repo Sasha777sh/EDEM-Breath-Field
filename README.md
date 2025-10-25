@@ -2,6 +2,8 @@
 
 > **Живая физика. Открытый прототип.**
 
+**[Read in other languages](translations/README.md)** | **[Leer en otros idiomas](translations/README.md)** | **[其他语言](translations/README.md)**
+
 Вместо мёртвого 432 Гц — живое поле, которое чувствует дыхание.
 
 Здесь катушка — не прибор.  
