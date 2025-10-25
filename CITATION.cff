@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+authors:
+  - family-names: "Shelementev"
+    given-names: "Aleksandr"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Physics of Life: A Unified Framework for Consciousness-Matter Interaction"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX
+date-released: 2025-10-25
+url: "https://github.com/edemspirit/EDEM-Breath-Field"
+repository-code: "https://github.com/edemspirit/EDEM-Breath-Field"
+license: CC-BY-SA-4.0
+keywords:
+  - consciousness
+  - matter
+  - resonance
+  - biomodulation
+  - living physics
+  - attention
+  - coherence
+  - field theory
+  - living systems engineering
+abstract: |
+  Traditional physics treats matter and consciousness as separate domains.
+  We propose a unified framework where consciousness organizes matter through
+  resonance, attention, and coherence. This repository contains theoretical
+  foundations, experimental protocols, and working prototypes for testing
+  the Physics of Life hypothesis.
+
