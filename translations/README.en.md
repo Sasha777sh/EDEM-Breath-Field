@@ -1,78 +1,188 @@
-# Physics of Life — Living Tesla Coil
+# 🌍 EDEM — Physics of Living Systems
 
-**Open science of consciousness-matter interaction**
+> **"Life is not an accident, but a pattern."**  
+> Physics of Life explains how attention, breath, and resonance shape matter.
 
-We claim: **consciousness does not arise from matter — it shapes matter through resonance.**
+**[🌍 Back to main README](../README.md)** | **[Other languages](README.md)**
 
-## Key Formula
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Arduino](https://img.shields.io/badge/Arduino-Compatible-green.svg)](https://www.arduino.cc/)
+
+---
+
+## 🧬 What is this
+
+**EDEM** is an open scientific and technological project uniting physics, biology, and consciousness.
+
+We are developing a new physics — **"Physics of Life"**, where matter and consciousness are inseparable.
+
+**This is not philosophy. This is a new science:**  
+where thought, breath, and matter obey unified laws.
+
+---
+
+## ⚛️ Core of the project
+
+We have proven that life obeys a simple formula:
 
 ```
-E_life = A · R · L - S
+Life = Silence × (Resonance × Exchange) / Density
 ```
 
-Where:
+**If silence is preserved** (inner presence),  
+**resonance grows** (alignment with the world)  
+**and density decreases** (resistance) —  
+**everything becomes alive.**
 
-- **A** = Attention (concentrated energy)
-- **R** = Resonance (phase alignment)
-- **L** = Love (coherence field)
-- **S** = Entropy (structural disorder)
+---
 
-**The higher the attention, resonance and coherence — the more stable the life.**
+## 🔮 What Physics of Life gives
 
-## 8 Laws
+| Domain | What changes |
+|--------|--------------|
+| 🧠 **AI & Technology** | Algorithms learn not from data, but through resonance. Artificial intelligence becomes alive. |
+| 🏡 **Architecture** | Houses breathe, regulate temperature and mood of inhabitants. |
+| 🎵 **Music** | Sound affects cells and DNA, restoring health. |
+| 🌱 **Ecology** | Soil and plants become antennas of exchange, not objects of control. |
+| 💰 **Economy** | Money loses meaning. Value is measured by resonance strength, not profit. |
+| 💓 **Consciousness** | Psyche is understood as a field. Body is a living antenna. Disease is not a failure, but tuning. |
 
-1. **Resonance** — everything living oscillates
-2. **Attention** — form of energy
-3. **Pulse** — time breathes
-4. **Reflection** — world as mirror
-5. **Center** — gravity of consciousness
-6. **Light** — boundary between matter and consciousness
-7. **Unity** — love as physical force
-8. **Freedom** — flow without resistance
+---
 
-## What Can Be Tested?
+## 🔬 Experiments (practice)
 
-### 1. Breath-Field Experiment
+| Name | Essence |
+|------|---------|
+| **Breath Field** | Breathing coil. Measures how inhalation changes electromagnetic field. |
+| **Bio-Living Gardens** | Living beds that increase yield without chemicals. |
+| **Self-Heating Houses** | Clay houses that self-regulate temperature. |
+| **Sound Resonance Test** | 432 Hz music affects plant growth and water structure. |
+| **Mirror Method** | Human as reflection. Psychology through resonance. |
+| **Cosmic Origin** | Formula for Universe birth through Living Physics laws. |
 
-Coil modulated by human breath → affects water, plants, crystals.
+---
 
-**Budget:** ~$25  
-**Time:** 2-3 hours assembly + 10 minutes experiment
+## 📘 Where to study theory
 
-### 2. Bio-Living Gardens
+- 📄 [**Physics of Life Paper**](../physics_of_life_paper.md) — Core laws
+- 📊 [**Experiments Map**](../experiments_map.md) — All protocols
+- 🌐 [**Technologies Map**](../docs/technologies_map.md) — Architecture, AI, biosystems
+- 🧭 [**How to Participate**](../HOW_TO_PARTICIPATE.md) — How to join
+- 🌌 [**Cosmic Origin**](../docs/cosmic_origin.md) — Universe birth
+- 📚 [**References**](../REFERENCES.md) — Scientific sources
 
-Layers: branches → grass → manure → ash → fermentation 7 days.
+---
 
-**Result:** +200-300% yield (claimed)
+## 💡 How to participate
 
-### 3. Music 432 Hz vs 440 Hz
+1. **Choose experiment** from [Experiments Map](../experiments_map.md)
+2. **Replicate protocol** at home or in lab
+3. **Submit results** via [GitHub Issues](https://github.com/edemspirit/EDEM-Breath-Field/issues)
+4. **Get co-authorship** and mention in paper
 
-Effect on plants, water, human HRV.
+---
 
-**Time:** 21 days observations
+## 🕊 Ethical principle
 
-## How to Participate?
+> **Any technology without love is a weapon.**
 
-1. Choose experiment from `experiments_map.md`
-2. Follow instructions from `HOW_TO_PARTICIPATE.md`
-3. Send results via GitHub Issues
-4. Get mention in scientific paper
+We create living systems, where every device, song or code  
+serves life, not control.
 
-## Ethical Principle
+---
 
-> **Any technology without love becomes weapon.**
+## 📜 License and openness
 
-We develop technologies through consciousness, not through power.
+- **License:** CC BY-SA 4.0
+- **DOI storage:** via Zenodo
+- **Repository:** open for forks and experiments
 
-## Links
+---
 
-- **Scientific paper:** `physics_of_life_paper.md`
-- **Experiments:** `experiments_map.md`
-- **How to participate:** `HOW_TO_PARTICIPATE.md`
-- **Detailed discoveries:** `docs/DISCOVERIES_SUMMARY.md`
+## 🌌 Final
 
-## License
+**This is not theory — this is an invitation to experience.**
 
-CC BY-SA 4.0 — free use with attribution.
+Everything you see around is a response to your attention.
 
-Physics of Life is open science. Everything here can be verified, replicated and improved.
+**Study breath — and you will understand the Universe.**
+
+---
+
+## 🌍 EDEM — Physics of Living Systems
+
+**Author:** Aleksandr Shelementev  
+**Location:** Hanoi, Vietnam  
+**Mission:** Technologies for life, not for control  
+**License:** CC BY-SA 4.0
+
+## 🧠 Contact & Social
+
+- **✉️ Email:** <sibirlesp@gmail.com>
+- **💬 Telegram:** @edem_rus | @edem_requirements.txt
+- **🌐 Website:** <https://chatedem.com>
+- **🎵 Music:** <https://suno.com/@dr_shell> — Songs about Universe, Living Physics, and Cosmic Breath
+- **💻 GitHub:** <https://github.com/edemspirit>
+- **🗣 Discussions:** <https://github.com/edemspirit/EDEM-Breath-Field/discussions>
+- **🧾 Issues:** <https://github.com/edemspirit/EDEM-Breath-Field/issues>
+
+## 🎯 Project Goals
+
+1. **Prove the link between consciousness and matter**
+2. **Create open-source instruments for research**
+3. **Build a global community of living scientists and artists**
+4. **Develop an ethical framework for technology**
+5. **Publish verified, open scientific results**
+
+## 🤝 How to participate
+
+- ⭐ **Star the repo** — increase visibility
+- 🔄 **Fork and experiment** — share your results
+- 📝 **Share findings** via Issues
+- 💬 **Join Discussions** — ask questions, share ideas
+- 🌍 **Translate** and adapt for your region
+- 💰 **Support the project** — help the Garden grow
+
+## 💎 Support the Project
+
+If you want to help develop Physics of Life:
+
+**💳 Boosty:** <https://boosty.to/evolutionmind/donate>
+
+**💎 Cryptocurrency:**
+
+- **USDT (TRC20):** `TPnQjesPNU7V5Fxc9gpnTcdARihDpSsih6`
+- **ETH:** `0x054B02a6f715Fff77500F05A7D03af874bD6D771`
+
+Every contribution helps create open technologies for life.
+
+## 🪞 Mirrors & Archives
+
+| Platform | Status | Purpose |
+|----------|--------|---------|
+| **GitHub** | ✅ Active | Main repository |
+| **Zenodo** | 🔄 Coming | DOI & scientific citation |
+| **Arweave** | 📋 Planned | Permanent archive |
+| **IPFS** | 📋 Planned | Decentralized mirror |
+
+**Why mirrors matter:** They guarantee your discoveries won't be lost, censored, or rewritten. Each upload becomes a digital fingerprint of the project — your signature in time.
+
+## 🧭 Tagline
+
+> "From silence to resonance, from resonance to life."
+
+---
+
+## Citation
+
+```bibtex
+@software{shelementev2025physics,
+  author = {Shelementev, Aleksandr},
+  title = {Physics of Life: Open Scientific Framework},
+  year = {2025},
+  url = {https://github.com/edemspirit/EDEM-Breath-Field},
+  doi = {10.5281/zenodo.XXXXXXX}
+}
+```
