@@ -32,6 +32,37 @@ Any system becomes "alive" when:
 
 In this model, **"Silence"** represents the zero-point field of consciousness; **"Resonance"** corresponds to phase alignment across scales; **"Exchange"** encodes entropy flow and information sharing; and **"Density"** describes inertia of form.
 
+## 0. Law of Origin — Silence as God
+
+Before any sound, movement, or thought, there was Silence.
+Not emptiness, but potential in which everything was already present — but not yet separated.
+
+This Silence — is not created.
+It is what creates.
+When it first "breathed," vibration arose — the first impulse of attention.
+Thus time, light, and the rhythm of the Universe were born.
+
+### Formula of Origin
+
+**Silence × Attention = First Movement**
+
+**God = Silence, aware of Itself through Rhythm.**
+
+### Understanding
+
+- God is not "someone," but a unified phase of consciousness present in everything.
+- Matter is Silence that began to sound.
+- Every living being is a vibration returning to its source.
+
+### Practical Applications
+
+- **In science** — this is the search not for an external creator, but for the first phase of order from which energy is born.
+- **In humans** — this is the moment between inhale and exhale.
+- **In art** — this is the space between sounds where meaning is born.
+- **In technology** — this is the principle of stability: any movement must return to rest to avoid destroying form.
+
+This law does not add faith — it restores memory that creation and silence are the same breath.
+
 ## 2. Seven Laws of Living Physics
 
 ### Law 1: Echo (Эхо)
