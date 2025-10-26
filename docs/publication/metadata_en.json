@@ -1,0 +1,63 @@
+{
+  "upload_type": "software",
+  "title": "EDEM Physics of Life — Open Framework for Living Systems",
+  "creators": [
+    {
+      "name": "Shelementev, Aleksandr",
+      "affiliation": "EDEM Project / Vietnam",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "description": "⚛️ Foundation correction manifesto. EDEM Physics of Life is an open scientific framework that unifies physics, biology, architecture, and artificial intelligence into a single living system. It introduces the laws of Living Physics, where life is treated not as an object but as a subject of the Universe. Includes formulas, protocols, and working prototypes built on breath, attention, and resonance.",
+  "keywords": [
+    "EDEM",
+    "Physics of Life",
+    "Living Systems",
+    "Resonance",
+    "Consciousness",
+    "AI",
+    "Bioarchitecture",
+    "Breath Field"
+  ],
+  "license": "CC-BY-SA-4.0",
+  "language": "eng",
+  "notes": "Living Physics is a new scientific paradigm that returns life into the equation of the Universe. The EDEM project unites technology and consciousness, creating living systems where energy, attention, and matter function as one.",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/edemspirit/EDEM-Breath-Field",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://ipfs.io/ipfs/QmdJUvejzTFD5eRCBDXvnmd7DQttacFn4kqN8rZnWDy4m",
+      "relation": "isAlternateIdentifier"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "EDEM Core Team",
+      "type": "Researcher"
+    }
+  ],
+  "access_right": "open",
+  "version": "1.0.0",
+  "publication_date": "2025-10-27",
+  "references": [
+    "Shelementev A. (2025). Physics of Life: Core Laws and Equations. EDEM Project, Vietnam.",
+    "EDEM Breath Field Experiments (2025). https://github.com/edemspirit/EDEM-Breath-Field"
+  ],
+  "subjects": [
+    {
+      "term": "Biophysics",
+      "identifier": "physics.bio-ph"
+    },
+    {
+      "term": "Artificial Intelligence",
+      "identifier": "cs.AI"
+    },
+    {
+      "term": "Complex Systems",
+      "identifier": "nlin.AO"
+    }
+  ]
+}
