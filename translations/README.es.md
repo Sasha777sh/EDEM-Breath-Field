@@ -1,4 +1,4 @@
-# 🌍 EDEM — Física de Sistemas Vivos
+# ⚛️ EDEM — Física de Sistemas Vivos
 
 > **"La vida no es un accidente, sino un patrón."**  
 > La Física de la Vida explica cómo la atención, la respiración y la resonancia dan forma a la materia.

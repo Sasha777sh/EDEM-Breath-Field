@@ -124,9 +124,10 @@ Life = Silence × (Resonance × Exchange) / Density
 ### Как присоединиться
 
 1. **Изучи** [Experiments Map](docs/experiments/experiments_map.md) или [Applications Overview](docs/APPLICATIONS_OVERVIEW.md)
-2. **Выбери** направление, которое резонирует с тобой
-3. **Создай Issue** с описанием, что хочешь сделать
-4. **Начни эксперимент** и делись результатами
+2. **Прочитай** [Анализ влияния](docs/IMPACT_ANALYSIS.md) — как проект изменит мир
+3. **Выбери** направление, которое резонирует с тобой
+4. **Создай Issue** с описанием, что хочешь сделать
+5. **Начни эксперимент** и делись результатами
 
 **Looking for collaborators in:** animation, sound design, biology, data science, architecture, agriculture
 
