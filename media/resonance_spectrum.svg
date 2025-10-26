@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240">
+  <rect width="600" height="240" fill="#0b0f14"/>
+  <text x="20" y="24" fill="#cfe8ff" font-family="monospace" font-size="14">Resonance Spectrum (~0.1 Hz breath peak)</text>
+  <line x1="50" y1="200" x2="550" y2="200" stroke="#6a7a8a" stroke-width="1"/>
+  <line x1="50" y1="40" x2="50" y2="200" stroke="#6a7a8a" stroke-width="1"/>
+  <polyline fill="none" stroke="#69f0ae" stroke-width="2"
+    points="50,195 80,192 110,188 140,175 170,150 200,120 230,95 260,85 290,90 320,110 350,140 380,165 410,182 440,192 470,196 500,198 530,199 550,199"/>
+  <circle cx="260" cy="85" r="4" fill="#ffca28"/>
+  <text x="268" y="90" fill="#ffca28" font-family="monospace" font-size="12">0.1 Hz</text>
+</svg>
