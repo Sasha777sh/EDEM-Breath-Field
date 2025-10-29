@@ -7,6 +7,10 @@
 [![Experiments](https://img.shields.io/badge/experiments-7-orange)](#-working-experiments)
 [![Stars](https://img.shields.io/github/stars/Sasha777sh/EDEM-Breath-Field?style=social)](https://github.com/Sasha777sh/EDEM-Breath-Field/stargazers)
 
+![Formula of Life](docs/media/formula_life.jpg)
+
+[Watch demo (7 min)](https://youtu.be/6ci-Vjwcc2o?si=ga0hYgnFYpAriqDY)
+
 ---
 
 ## ⚡ The Crisis
