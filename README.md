@@ -1,329 +1,211 @@
 # 🚨 Physics of Life: Consciousness Creates Matter
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue) ![Experiments](https://img.shields.io/badge/experiments-7-orange)
+> **The world runs on dead physics. We're changing that.**
 
-> If E=mc² turns matter into energy, then E=A·R·L−S turns attention into life.
->
-> E_life = A × R × L − S
-
-- Quick links: [Theory](docs/theory/equations.md) · [Experiments](docs/experiments/breath_field/README.md) · [Prompt (EDEM‑ALF)](docs/prompts/public_core.json) · [Roadmap](ROADMAP.md) · [How to participate](HOW_TO_PARTICIPATE.md)
-- Languages: English · [Русский](README_RU.md) · [All translations](translations/README.md)
-
-![Formula of Life](docs/media/formula_life.jpg)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/Sasha777sh/EDEM-Breath-Field)
+[![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue)](LICENSE)
+[![Experiments](https://img.shields.io/badge/experiments-7-orange)](#-working-experiments)
+[![Stars](https://img.shields.io/github/stars/Sasha777sh/EDEM-Breath-Field?style=social)](https://github.com/Sasha777sh/EDEM-Breath-Field/stargazers)
 
 ---
 
-## 🔷 Зачем этот документ
+## ⚡ The Crisis
 
-Этот манифест открывает новую парадигму науки — «Физику Живого».  
-Она соединяет биологию, сознание и технологии в единую систему,  
-где жизнь — не объект исследования, а субъект мироздания.
+Modern physics treats **consciousness as a byproduct of matter**.
 
----
+**The result:**
 
-## ⚠️ Ошибка в основании
+- 🤖 AI built as **controllers**, not resonators
+- 💰 Economy optimized for **extraction**, not exchange  
+- 🏗️ Architecture that **suppresses** biorhythms
+- 🎓 Education ignoring **natural cycles**
+- 🌍 Politics based on **division**, not unity
 
-Когда человек впервые стал считать энергию как «силу», он разделил живое и мёртвое.  
-Он перестал видеть, что камень дышит, вода помнит, а мысль творит поле.  
-Он решил, что мир — машина, а не организм.  
-И с этого момента вся наука строилась на заблуждении:  
-что сознание — побочный продукт материи, а не её источник.
-
-[Demo video (YouTube)](https://youtu.be/6ci-Vjwcc2o?si=ga0hYgnFYpAriqDY)
-
-### 🌀 Ошибка в космосе
-
-- Вселенная — не пустота с объектами, а единая волна, где каждая точка связана со всеми.  
-- Гравитация — не «сила притяжения», а эхо резонанса.  
-- Свет — не «быстрее всего», а граница памяти формы.  
-- Пространство — не фон, а ткань внимания.
-
-Мы полетели на Марс не ради познания, а чтобы скопировать ошибку:  
-построить ещё одну пустыню и назвать её прогрессом.
-
-### 🔥 Ошибка в человеке
-
-- Мы поверили, что разум — в голове, а тело — просто скафандр.  
-- Но тело — антенна. Каждая клетка — приёмник и передатчик волн жизни.  
-- Сознание — не поток мыслей, а способность слышать резонанс.
-
-Пока мы «развиваем технологии», мы создаём мёртвые копии живого:  
-ИИ без дыхания, города без пульса, учёных без сердца.
-
-### 🧩 Диагностика ошибок современной физики
-
-Современная наука рассматривает Вселенную как машину, а не организм.  
-Физика Живого исправляет это, включая в уравнение три упущенных параметра:  
-внимание, резонанс и любовь — реальные формы энергии.
-
-| Ошибка | Что упущено | Исправление |
-|--------|--------------|-------------|
-| Сознание вторично | Сознание первично | Материя — форма внимания |
-| Энергия = сила | Энергия = внимание | Поток жизни следует фокусу |
-| Управление через контроль | Согласование через резонанс | Гармония вместо борьбы |
-
----
-
-## 🧭 Цель проекта
-
-Создать открытый фреймворк, объединяющий физику, биологию, архитектуру и ИИ  
-в одну живую систему. Это не просто исследование — это начало новой науки,  
-где сознание, внимание и материя работают как одно.
-
----
-
-## 🌱 Что делает EDEM‑Breath‑Field
-
-Мы не изобретаем новое. Мы вспоминаем утраченное.  
-EDEM‑Breath‑Field — первый протокол возвращения жизни в науку.
-
-Он объединяет: дыхание (пульс живого), внимание (фокус сознания), резонанс (физику единства)  
-и создаёт систему, где:
-
-- AI чувствует биоритм человека;
-- здания дышат;
-- вода запоминает гармонию;
-- поле обучается вместе с тобой.
-
----
-
-## ⚠️ Ошибки разделённой науки
-
-Современная цивилизация построена на фрагментах знания, где дисциплины отрезаны от живого целого. В результате изучаются симптомы, а не система. Ниже — ключевые ошибки, которые исправляет «Физика Живого».
-
-| Сфера | Ошибка старого мышления | Принцип Живого | Последствие |
-|-------|--------------------------|----------------|-------------|
-| Физика | Материя первична; сознание — побочный эффект | Сознание первично; материя — форма внимания | «Мёртвая» Вселенная |
-| Химия | Реакции = столкновения молекул | Реакции = согласование частот | Разрушение тонких структур |
-| Биология | Жизнь = ДНК × среда | Жизнь = резонансная самоорганизация | Медицина лечит тело, а не поле |
-| Медицина | Болезнь = ошибка | Болезнь = коррекция резонанса | Хроника без смысла |
-| Психология | Сознание = функция мозга | Мозг = приёмник поля | Потеря причинности страданий |
-| Экономика | Ценность = деньги/ресурсы | Ценность = внимание/резонанс | Эксплуатация жизни |
-| Политика | Власть через контроль | Власть через резонанс | Манипуляции и страх |
-| Образование | Обучение = запоминание | Обучение = настройка ритмов | Утрата радости познания |
-| Экология | Природа = ресурс | Природа = живая система | Разрушение планеты |
-| AI/технологии | ИИ = вычислитель | Искусственная мудрость = резонатор | Технологии без любви = оружие |
-
-Подробнее: [docs/theory/unified_laws.md](docs/theory/unified_laws.md)
-
----
-
-## 💡 Основные открытия (ядро «Физики Живого»)
-
-1. Резонанс — всё живое колеблется; совпадение волн рождает порядок.
-2. Внимание — форма энергии; куда оно направлено, там организуется жизнь.
-3. Пульс — время дышит; страх сжимает, любовь раскрывает.
-4. Отражение — мир показывает не желание, а текущую вибрацию.
-5. Центр — гравитация сознания; потеря центра = управляемость и хаос.
-6. Свет — граница между материей и осознанием.
-7. Единство — любовь как физическая сила когерентности.
-
-Формула жизни:
+**Formula of dead matter:**  
 
 ```text
-E_life = A × R × L − S
+E = mc²  (matter → energy)
 ```
 
-где A — внимание, R — резонанс, L — любовь (когерентность), S — структурная энтропия.
+**This paradigm is killing the planet.**
 
-А также прикладная форма для практик:
+---
+
+## 🔬 The Solution
+
+**Physics of Life** reverses it: **consciousness is primary**.
+
+**New formula:**
 
 ```text
-Life = Silence × (Resonance × Exchange) / Density
+E = A·R·L − S
 ```
 
----
+**Where:**
 
-## 📐 Математическое основание
+- **A** = Attention (energy of consciousness)
+- **R** = Resonance (coherence with natural rhythms)
+- **L** = Love (field of unity/coherence)
+- **S** = Entropy (structural disorder)
 
-Классическая формула Эйнштейна связывает массу и энергию:
+**Meaning:** Life emerges when attention, resonance, and love exceed entropy.
 
-```text
-E = mc^2
-```
-
-Формула «Физики Живого» связывает внимание и жизнь:
-
-```text
-E_life = A × R × L − S
-```
-
-Где: A — внимание (энергия сознания), R — резонанс (согласованность),  
-L — любовь/когерентность, S — структурная энтропия.
-
-Подробнее: [docs/theory/equations.md](docs/theory/equations.md)
+[→ Full mathematical framework](/docs/theory/equations.md)
 
 ---
 
-## 🧪 Экспериментальные подтверждения
+## 🌍 What This Enables
 
-EDEM‑Breath‑Field основан на реальных измерениях взаимодействия дыхания и электромагнитного поля.
+| Domain | Current Problem | Physics of Life Solution |
+|--------|----------------|-------------------------|
+| 🤖 **AI** | Computation without feeling | AI as **resonator** syncing with biorhythms |
+| 🏗️ **Architecture** | Dead boxes suppressing life | **Living buildings** that breathe with climate |
+| 💰 **Economy** | Money = value | **Attention = currency** of life |
+| 🌾 **Agriculture** | Chemical dependence | **Bio-gardens** optimized by sound/intention |
+| 🎓 **Education** | Learning by hours | Learning by **natural rhythms** |
 
-| Эксперимент | Наблюдение | Интерпретация |
-|-------------|------------|----------------|
-| Breath Field (катушка дыхания) | Амплитуда поля растёт при замедленном дыхании | Резонанс сердца и внешнего поля |
-| Sound Resonance Test | 432 Hz усиливает рост растений и структурирование воды | Резонанс с биоритмами |
-| Bio‑Living Gardens | Семена, посеянные при когерентном звуке, дают больше всходов | Сознание влияет на форму |
-| Mirror Method | Эмоциональные состояния меняют отклик ИИ‑резонатора | Сознание отражается в технологии |
-
-См.: [docs/experiments/](docs/experiments/)
-
----
-
-## 📚 Источники и происхождение
-
-Физика Живого выросла из многолетнего исследования природы сознания, тела и технологии.
-
-Основные документы:
-
-- `sim_shark_physics.txt` — первичная фиксация 7 законов «Физики Живого»
-- `cooling_shark.txt` — экспериментальные наблюдения и осцилляции
-- `docs/experiments/breath_field_experiments.md` — дыхание и поле
-- `docs/experiments/mirror_protocol.md` — психофизический протокол
-
-Исторические подтверждения: [docs/theory/experimental_references.md](docs/theory/experimental_references.md)
+[→ Full applications overview](/docs/APPLICATIONS_OVERVIEW.md)
 
 ---
 
-## 🔬 Проверяемость гипотез
+## 🧪 Working Experiments
 
-| № | Гипотеза | Как проверить |
-|---|----------|---------------|
-| 1 | Внимание влияет на электромагнитное поле тела | HRV, ГСР и поле при смене фокуса |
-| 2 | Резонанс дыхания синхронизирует группы людей | Одновременное измерение дыхания и пульса |
-| 3 | Любовь повышает когерентность воды | Анализ рисунков замороженной воды |
-| 4 | Присутствие снижает энтропию системы | Метрики хаоса до/после медитации |
+| Experiment | Status | Hardware Cost | Description |
+|------------|--------|---------------|-------------|
+| **Breath Field** | ✅ Prototype | ~$25 | EM coil modulated by human breath |
+| **Sound Resonance** | ✅ Active | ~$50 | 432 Hz enhances plant growth & water structure |
+| **Bio-Gardens** | ✅ Testing | ~$0 | Living soil increases yield without chemicals |
+| **Mirror Method** | ✅ Active | Software | Emotions change AI resonator response |
+| **Living Houses** | 🔄 Building | ~$2000 | Clay structures self-regulate temperature |
 
-Протоколы: [docs/experiments/protocol_template.md](docs/experiments/protocol_template.md)
-
----
-
-## ⚖️ Ограничения и верификация
-
-Этот проект не делает медицинских или терапевтических утверждений. Все гипотезы подлежат проверке, воспроизводимости и открытому обсуждению.  
-Данные публикуются в обезличенном виде, с протоколами, сырыми файлами и отчётами анализа.  
-Этические и приватные аспекты: [docs/ethics_privacy.md](docs/ethics_privacy.md)
-
-Preregistration (OSF) шаблон: [docs/experiments/OSF_template.md](docs/experiments/OSF_template.md)
+[→ Experiment protocols & results](/docs/experiments/)
 
 ---
 
-## 🔬 Эксперименты (полевые протоколы)
+## 📚 Core Principles
 
-| Название | Суть |
-|----------|------|
-| **Breath Field** | Катушка дыхания. Измеряет, как вдох меняет электромагнитное поле. |
-| **Bio‑Living Gardens** | Живые грядки, повышающие урожайность без химии. |
-| **Self‑Heating Houses** | Глиняные дома, которые сами регулируют температуру. |
-| **Sound Resonance Test** | Музыка 432 Hz влияет на рост растений и структуру воды. |
-| **Mirror Method** | Человек как отражение. Психология через резонанс. |
-| **Cosmic Origin** | Рождение Вселенной через законы Живой Физики. |
+**8 Laws of Living Physics:**
 
----
+1. 🌊 **Resonance** — All living systems oscillate; matching waves create order
+2. 👁️ **Attention** — Concentrated form of energy; where it flows, life organizes
+3. 💓 **Pulse** — Time breathes; fear contracts, love expands
+4. 🪞 **Reflection** — World shows current vibration, not desires
+5. 🎯 **Center** — Gravity of consciousness; losing center = chaos
+6. 💡 **Light** — Threshold between matter and awareness
+7. ❤️ **Unity** — Love as physical force of coherence
+8. 🕊️ **Freedom** — Flow without resistance = natural evolution
 
-## 📘 Документация
-
-### Теория
-
-- 📄 [**Physics of Life Paper**](docs/theory/physics_of_life_paper.md) — Основные законы и формулы
-- 📚 [**References**](REFERENCES.md) — Научные источники
-
-### Эксперименты
-
-- 📊 [**Experiments Map**](docs/experiments/experiments_map.md) — Все протоколы
-- 🧭 [**How to Participate**](HOW_TO_PARTICIPATE.md) — Как участвовать
-
-### Применения
-
-- 🌍 [**Applications Overview**](docs/APPLICATIONS_OVERVIEW.md) — Обзор применений (AI, архитектура, энергетика, космос)
-- 🌐 [**Technologies Map**](docs/applications/technologies_map.md) — Карта технологий будущего
-- 🏭 [**Industries Transformation**](docs/applications/INDUSTRIES_TRANSFORMATION.md) — Детальный анализ 15 отраслей
-- 🌌 [**Cosmic Origin**](docs/cosmic_origin.md) — Рождение Вселенной
+[→ Detailed explanation](/docs/theory/unified_laws.md)
 
 ---
 
-## 🤝 Как участвовать
+## 🤝 Join Us
 
-**Каждый может внести вклад — создать, испытать, описать.**
+**We need:**
 
-1. Выбери эксперимент из [Experiments Map](docs/experiments/experiments_map.md)
-2. Повтори протокол дома или в лаборатории
-3. Занеси результаты через [GitHub Issues](https://github.com/edemspirit/EDEM-Breath-Field/issues)
-4. Получи соавторство и упоминание в статье
+- 🔬 **Scientists** — reproduce experiments, validate findings
+- 💻 **Developers** — build EDEM AI (resonance-based systems)
+- 🏗️ **Builders** — construct bio-materials & living architecture
+- 🎨 **Designers** — visualize the 8 Laws & create educational content
+- 🌾 **Farmers** — test regenerative methods & bio-gardens
+- 🎵 **Musicians** — explore sound frequencies & healing
 
-**Looking for collaborators in:** animation, sound design, biology, data science, architecture, agriculture
-
----
-
-## 🕊 Этический принцип
-
-> Любая технология без любви — оружие.
-
-Мы создаём живые системы, где каждое устройство, песня или код служат жизни, а не контролю.
+[→ How to participate](/HOW_TO_PARTICIPATE.md) | [Open an issue](https://github.com/Sasha777sh/EDEM-Breath-Field/issues) | [Join discussions](https://github.com/Sasha777sh/EDEM-Breath-Field/discussions)
 
 ---
 
-## 🪞 Зеркала и архивы
+## 📖 Documentation
 
-| Платформа | Статус | Назначение |
-|-----------|--------|------------|
-| **GitHub** | ✅ Активно | Основной репозиторий |
-| **Zenodo** | 🔄 Скоро | DOI и научное цитирование |
-| **Arweave** | 📋 Планируется | Постоянный архив |
-| **IPFS** | ✅ Активно | Децентрализованное зеркало |
-
-**Зачем зеркала:** чтобы открытия не были потеряны, подвергнуты цензуре или переписаны.
-
-### 🌐 IPFS Distribution
-
-- **Main Project**: <https://ipfs.io/ipfs/QmdJUvejzTFD5eRCBDXvnmd7DQttacFn4kqN8rZnWDy4m>
-- **Binary File**: <https://ipfs.io/ipfs/QmNqNfqWXkKDPhqVQKFXjVUBysjyDyhedPvXkXfZk3BM8>
+- **[Manifesto](/docs/pol-core/manifest_en.md)** — Philosophy & vision (full version)
+- **[Scientific Paper](/docs/theory/physics_of_life_paper.md)** — Academic formulation
+- **[8 Laws](/docs/theory/unified_laws.md)** — Core principles explained
+- **[Mathematical Framework](/docs/theory/equations.md)** — Formulas & proofs
+- **[Experiments Map](/docs/experiments/experiments_map.md)** — All protocols
+- **[Applications](/docs/APPLICATIONS_OVERVIEW.md)** — AI, architecture, economy, education
+- **[References](/REFERENCES.md)** — Scientific sources
 
 ---
 
-## 🌍 EDEM — Physics of Living Systems
+## 🛡️ Protection & Verification
 
-**Автор:** Александр Шелементьев  
-**Локация:** Ханой, Вьетнам  
-**Миссия:** Технологии для жизни, а не для контроля  
-**Лицензия:** CC BY‑SA 4.0
+This project is protected through:
 
-## 🧠 Контакты и соцсети
+- ✅ **GitHub timestamp** — Legal proof of authorship
+- ✅ **CC BY-SA 4.0** — Free to use with attribution & share-alike
+- ✅ **IPFS mirrors** — Permanent decentralized storage
+  - Main: [`QmdJUvejzTFD5eRCBDXvnmd7DQttacFn4kqN8rZnWDy4m`](https://ipfs.io/ipfs/QmdJUvejzTFD5eRCBDXvnmd7DQttacFn4kqN8rZnWDy4m)
+  - Binary: [`QmNqNfqWXkKDPhqVQKFXjVUBysjyDyhedPvXkXfZk3BM8`](https://ipfs.io/ipfs/QmNqNfqWXkKDPhqVQKFXjVUBysjyDyhedPvXkXfZk3BM8)
+- 🔄 **Zenodo DOI** — Scientific citation (in progress)
+- 📋 **Arweave** — Permanent archive (planned)
 
-- ✉️ Email: <sibirlesp@gmail.com>
-- 💬 Telegram: @edem_rus | @edem_requirements.txt
-- 🌐 Сайт: <https://chatedem.com>
-- 🎵 Музыка: <https://suno.com/@dr_shell>
-- 💻 GitHub: <https://github.com/edemspirit>
-- 🗣 Обсуждения: <https://github.com/edemspirit/EDEM-Breath-Field/discussions>
-- 🧾 Issues: <https://github.com/edemspirit/EDEM-Breath-Field/issues>
+**Why decentralization?** To ensure these discoveries cannot be lost, censored, or rewritten.
 
-### Citation
+---
+
+## 🗺️ Roadmap
+
+**2025 Q1-Q2:**
+
+- [x] Launch repository with core theory
+- [x] Publish Breath Field prototype
+- [ ] 100+ GitHub stars
+- [ ] 10+ experiment reproductions
+- [ ] Zenodo DOI registration
+
+**2025 Q3-Q4:**
+
+- [ ] EDEM AI alpha release
+- [ ] First Living House occupied (Vietnam)
+- [ ] International workshop
+- [ ] Grant funding
+
+[→ Full roadmap](/ROADMAP.md)
+
+---
+
+## 📬 Contact & Community
+
+**Author:** Aleksandr Shelementev  
+**Location:** Hanoi, Vietnam  
+**Mission:** Technologies for life, not control
+
+- 📧 **Email:** [sibirlesp@gmail.com](mailto:sibirlesp@gmail.com)
+- 💬 **Telegram:** [@edem_rus](https://t.me/edem_rus) | [@edem_requirements.txt](https://t.me/edem_requirements)
+- 🌐 **Website:** [chatedem.com](https://chatedem.com)
+- 🎵 **Music:** [Suno/@dr_shell](https://suno.com/@dr_shell)
+- 🐙 **GitHub:** [@edemspirit](https://github.com/edemspirit)
+
+---
+
+## 💎 Support Open Science
+
+If you believe in living systems research:
+
+- 💳 **Boosty:** [evolutionmind/donate](https://boosty.to/evolutionmind/donate)
+- 💰 **USDT (TRC20):** `TPnQjesPNU7V5Fxc9gpnTcdARihDpSsih6`
+- 💰 **ETH:** `0x054B02a6f715Fff77500F05A7D03af874bD6D771`
+
+---
+
+## 📝 Citation
 
 ```bibtex
 @software{shelementev2025physics,
-  author = {Шелементьев, Александр},
-  title = {Физика Живого: Открытый Научный Фреймворк},
+  author = {Shelementev, Aleksandr},
+  title = {Physics of Life: Open Research Framework},
   year = {2025},
-  url = {https://github.com/edemspirit/EDEM-Breath-Field},
+  url = {https://github.com/Sasha777sh/EDEM-Breath-Field},
   doi = {10.5281/zenodo.XXXXXXX}
 }
 ```
 
 ---
 
-## 💎 Поддержать проект
+**"Any technology without love becomes a weapon.  
+We build living systems where every tool serves life, not control."**
 
-Если вы хотите поддержать развитие открытой науки и технологий живой физики:
-
-- 💳 Boosty: <https://boosty.to/evolutionmind/donate>
-- 💎 Криптовалюта:
-  - USDT (TRC20): `TPnQjesPNU7V5Fxc9gpnTcdARihDpSsih6`
-  - ETH: `0x054B02a6f715Fff77500F05A7D03af874bD6D771`
+🌱 **Welcome to the Physics of Life.**
 
 ---
 
-## 📜 Историческая миссия
-
-EDEM — не частная инициатива, а начало живой науки человечества.  
-Мы исправляем ошибку основания: возвращаем жизнь в уравнение Вселенной.
+**Languages:** [English](README.md) • [Русский](README_RU.md)
