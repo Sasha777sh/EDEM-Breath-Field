@@ -1,11 +1,15 @@
-# ⚛️ EDEM Physics of Life — Манифест исправления основания
+# 🚨 Physics of Life: Consciousness Creates Matter
 
-**[🌍 Read in other languages](translations/README.md)**
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue) ![Experiments](https://img.shields.io/badge/experiments-7-orange)
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Arduino](https://img.shields.io/badge/Arduino-Compatible-green.svg)](https://www.arduino.cc/)
+> If E=mc² turns matter into energy, then E=A·R·L−S turns attention into life.
+>
+> E_life = A × R × L − S
+
+- Quick links: [Theory](docs/theory/equations.md) · [Experiments](docs/experiments/breath_field/README.md) · [Prompt (EDEM‑ALF)](docs/prompts/public_core.json) · [Roadmap](ROADMAP.md) · [How to participate](HOW_TO_PARTICIPATE.md)
+- Languages: English · [Русский](README_RU.md) · [All translations](translations/README.md)
+
+![Formula of Life](docs/media/formula_life.jpg)
 
 ---
 
@@ -25,7 +29,7 @@
 И с этого момента вся наука строилась на заблуждении:  
 что сознание — побочный продукт материи, а не её источник.
 
-https://youtu.be/6ci-Vjwcc2o?si=ga0hYgnFYpAriqDY
+[Demo video (YouTube)](https://youtu.be/6ci-Vjwcc2o?si=ga0hYgnFYpAriqDY)
 
 ### 🌀 Ошибка в космосе
 
