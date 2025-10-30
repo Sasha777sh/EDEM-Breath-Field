@@ -15,11 +15,11 @@
 
 ## 🚀 Why it changes everything
 
-- AI → from control to resonance: systems align to human/nature rhythms.
-- Medicine → from symptoms to coherence: measure/restore A·R·L, not just suppress S.
-- Economy → from scarcity to circulation: attention becomes value flow.
-- Governance → from polarization to consent: field coherence precedes decisions.
-- Infrastructure → from hard to living: light/breath/water as design primitives.
+- AI → from control to resonance: systems align to human/nature rhythms. Target: ↑ time‑in‑coherence, ↓ error rate.
+- Medicine → from symptoms to coherence: measure/restore A·R·L, not just suppress S. Target: ↑ HRV coherence, ↓ stress markers.
+- Economy → from scarcity to circulation: attention becomes value flow. Target: ↑ contribution/participation, ↓ idle attention.
+- Governance → from polarization to consent: field coherence precedes decisions. Target: ↑ agreement rate with less iterations.
+- Infrastructure → from hard to living: light/breath/water as design primitives. Target: ↑ comfort with ↓ energy per capita.
 
 ## 🎯 Flagship directions (entry points)
 
