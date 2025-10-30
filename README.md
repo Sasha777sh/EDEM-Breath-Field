@@ -184,6 +184,7 @@ See: [FUNDING.md](FUNDING.md)
 - **[Experiments Map](/docs/experiments/experiments_map.md)** — All protocols
 - **[Applications](/docs/APPLICATIONS_OVERVIEW.md)** — AI, architecture, economy, education
 - **[References](/REFERENCES.md)** — Scientific sources
+- **[Bridges — Science & Traditions](/docs/theory/bridges_science_religion.md)** — Parallels to scientific/inner traditions
 
 ---
 
