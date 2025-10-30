@@ -35,6 +35,31 @@ E = mc²  (matter → energy)
 
 ---
 
+## ❓ What the world is missing (without blame)
+
+- **Attention as energy**: when unfocused, energy dissipates into noise and stress.
+- **Resonance across scales**: systems thrive when rhythms align (body ↔ group ↔ nature).
+- **Love as coherence**: not sentiment, but a measurable field of unity that lowers entropy.
+
+## 🧨 What we are losing today
+
+- **Health and clarity**: fragmented attention → higher chaos (HRV↓, coherence↓).
+- **Meaning and trust**: metrics over life → alienation, polarization.
+- **Commons and regeneration**: extraction over exchange → soil/water depletion, burnout.
+
+## 🧾 Independent evidence (pointers)
+
+| Field | Researchers | Pointer |
+|------|-------------|---------|
+| Heart–brain coherence | HeartMath Institute | HRV coherence correlates with performance and wellbeing |
+| Biophotons | Fritz‑Albert Popp | Cells emit coherent light linked to regulation |
+| Water structuring | Masaru Emoto; L. Montagnier | Patterns influenced by sound/EM signatures (debated → testable) |
+| Social synchrony | Group entrainment studies | Shared rhythms improve cooperation |
+
+Details and references: [docs/theory/experimental_references.md](docs/theory/experimental_references.md)
+
+---
+
 ## 🔬 The Solution
 
 **Physics of Life** reverses it: **consciousness is primary**.
