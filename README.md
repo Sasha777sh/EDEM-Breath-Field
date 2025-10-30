@@ -1,7 +1,11 @@
 # 🚨 Physics of Life: Consciousness Creates Matter
 
+> TL;DR: Consciousness is primary. Attention is energy. Love is coherence.  
+> New physics of life: E = A·R·L − S.  
+> What changes: AI, medicine, economy, governance, cities.  
+> What to do: try 10‑min protocol; measure coherence; share data.  
+> Goal: raise E_life by aligning attention, resonance, love — reducing entropy.
 > **The world runs on dead physics. We're changing that.**
-
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/Sasha777sh/EDEM-Breath-Field)
 [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue)](LICENSE)
 [![Experiments](https://img.shields.io/badge/experiments-7-orange)](#-working-experiments)
@@ -152,18 +156,22 @@ E = A·R·L − S
 
 ---
 
-## 🤝 Join Us
+## 👤 Authors & Org
 
-**We need:**
+- Repository owner: [@Sasha777sh](https://github.com/Sasha777sh)
+- Community org: [@edemspirit](https://github.com/edemspirit)
 
-- 🔬 **Scientists** — reproduce experiments, validate findings
-- 💻 **Developers** — build EDEM AI (resonance-based systems)
-- 🏗️ **Builders** — construct bio-materials & living architecture
-- 🎨 **Designers** — visualize the 8 Laws & create educational content
-- 🌾 **Farmers** — test regenerative methods & bio-gardens
-- 🎵 **Musicians** — explore sound frequencies & healing
+---
 
-[→ How to participate](/HOW_TO_PARTICIPATE.md) | [Open an issue](https://github.com/Sasha777sh/EDEM-Breath-Field/issues) | [Join discussions](https://github.com/Sasha777sh/EDEM-Breath-Field/discussions)
+## 📬 Contact & Community (links)
+
+See: [CONTACT.md](CONTACT.md)
+
+---
+
+## 💎 Support Open Science (links)
+
+See: [FUNDING.md](FUNDING.md)
 
 ---
 
@@ -216,7 +224,7 @@ This project is protected through:
 
 ---
 
-## 📬 Contact & Community
+## 📬 Contact & Community (inline)
 
 **Author:** Aleksandr Shelementev  
 **Location:** Hanoi, Vietnam  
@@ -227,16 +235,6 @@ This project is protected through:
 - 🌐 **Website:** [chatedem.com](https://chatedem.com)
 - 🎵 **Music:** [Suno/@dr_shell](https://suno.com/@dr_shell)
 - 🐙 **GitHub:** [@edemspirit](https://github.com/edemspirit)
-
----
-
-## 💎 Support Open Science
-
-If you believe in living systems research:
-
-- 💳 **Boosty:** [evolutionmind/donate](https://boosty.to/evolutionmind/donate)
-- 💰 **USDT (TRC20):** `TPnQjesPNU7V5Fxc9gpnTcdARihDpSsih6`
-- 💰 **ETH:** `0x054B02a6f715Fff77500F05A7D03af874bD6D771`
 
 ---
 
