@@ -29,6 +29,12 @@
 - Conflict De‑escalation: group coherence before negotiation
 - Education by Rhythm: schedules that follow attention cycles
 
+## 🧩 Three real‑world cases (1 metric each)
+
+- AI Resonator in product support: target −15% task error rate at same time‑on‑task.
+- 10‑min breath+light protocol in clinic lobby: target +20% HRV coherence before appointment.
+- Rhythm‑aligned lighting in offices: target −10% evening energy use with equal comfort.
+
 ---
 
 ## ⚡ The Crisis
