@@ -310,3 +310,19 @@ See: [docs/theory/experimental_references.md](docs/theory/experimental_reference
 - **Everyone:** 10‑min starter — breath 4‑2‑6‑2, warm light, no multitask; note how you feel.
 
 ---
+
+## 🧱 First Principles (short)
+
+- Space: living field of relation
+- Time: breath (wave)
+- Gravity: attraction to center (wholeness)
+- Light: boundary matter ↔ awareness
+- Energy: love/coherence (entropy↓)
+
+Details: [docs/theory/first_principles.md](docs/theory/first_principles.md)
+
+---
+
+![Chaos → Presence](docs/media/chaos_to_presence.svg)
+
+---

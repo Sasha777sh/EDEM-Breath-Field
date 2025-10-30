@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320">
+  <rect width="960" height="320" fill="#0b0f14"/>
+  <text x="60" y="40" fill="#9bc4ff" font-size="18">Chaos → Observer → Presence</text>
+  <!-- Chaos -->
+  <g>
+    <text x="60" y="80" fill="#e3e7ee" font-size="14">I. Chaos</text>
+    <path d="M60,120 q20,-30 40,0 t40,0 t40,0" stroke="#6e7b8f" stroke-width="2" fill="none"/>
+    <path d="M60,140 q25,20 50,0 t50,0 t50,0" stroke="#485365" stroke-width="2" fill="none"/>
+  </g>
+  <!-- Observer -->
+  <g>
+    <text x="380" y="80" fill="#e3e7ee" font-size="14">II. Observer</text>
+    <circle cx="420" cy="120" r="22" fill="#19324d" stroke="#7fb3ff" stroke-width="2"/>
+    <circle cx="420" cy="120" r="4" fill="#7fb3ff"/>
+    <path d="M360,140 q30,-10 60,0 q30,10 60,0" stroke="#6e7b8f" stroke-width="2" fill="none"/>
+  </g>
+  <!-- Presence -->
+  <g>
+    <text x="720" y="80" fill="#e3e7ee" font-size="14">III. Presence</text>
+    <path d="M660,120 q40,-35 80,0 t80,0" stroke="#83e6b6" stroke-width="3" fill="none"/>
+    <path d="M660,140 q40,-35 80,0 t80,0" stroke="#2dd4bf" stroke-width="2" fill="none" opacity="0.7"/>
+    <circle cx="740" cy="120" r="3" fill="#83e6b6"/>
+    <circle cx="820" cy="120" r="3" fill="#83e6b6"/>
+  </g>
+</svg>
