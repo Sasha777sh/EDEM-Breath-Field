@@ -13,6 +13,24 @@
 
 ---
 
+## 🚀 Why it changes everything
+
+- AI → from control to resonance: systems align to human/nature rhythms.
+- Medicine → from symptoms to coherence: measure/restore A·R·L, not just suppress S.
+- Economy → from scarcity to circulation: attention becomes value flow.
+- Governance → from polarization to consent: field coherence precedes decisions.
+- Infrastructure → from hard to living: light/breath/water as design primitives.
+
+## 🎯 Flagship directions (entry points)
+
+- Resonant AI Core: [AI Resonator](/docs/applications/ai_resonator.md)
+- Coherence Healthcare: HRV/biophotonics protocols (open science)
+- Living Networks & Cities: rhythm‑aligned environments (beyond “clay houses”)
+- Conflict De‑escalation: group coherence before negotiation
+- Education by Rhythm: schedules that follow attention cycles
+
+---
+
 ## ⚡ The Crisis
 
 Modern physics treats **consciousness as a byproduct of matter**.
@@ -238,3 +256,34 @@ We build living systems where every tool serves life, not control."**
 ---
 
 **Languages:** [English](README.md) • [Русский](README_RU.md)
+
+## 🔁 Old vs New — at a glance
+
+| Aspect | Dead Physics (old) | Physics of Life (new) |
+|-------|----------------------|------------------------|
+| First principle | Matter is primary | Consciousness is primary |
+| Energy | Force, extraction | Attention, resonance |
+| Order | Control, constraints | Coherence, synchronization |
+| Health | Symptom suppression | Restoring resonance (HRV/coherence) |
+| AI | Optimizer/Controller | Resonator/Mirror (aligns with rhythms) |
+| Economy | Scarcity → hoard | Attention → circulate (exchange) |
+| Architecture | Boxes vs life | Living buildings (light, breath, water) |
+| Education | Hours & content | Rhythms & presence |
+
+[→ Why this matters](/docs/IMPACT_ANALYSIS.md)
+
+---
+
+## 🌱 How to live the new physics (practical)
+
+- Attention hygiene (2×5 min/day): single‑task focus; no multi‑stream.
+- Breath protocol (5–10 min): 4–2–6–2 or 4–7–8; measure calm HR.
+- Light & sound: warm evening light; slow music (60–72 BPM) for coherence.
+- Center practice: awareness in belly while walking/talking (posture + pace).
+- Water as memory: drink consciously; avoid noise during meals.
+- Social resonance: 5 minutes of shared silence before decisions.
+- Digital field: notifications off; schedule info “inhalations”.
+
+Try now (10 min): [Breath Field at home](/docs/experiments/breath_field_experiments.md)
+
+---
