@@ -287,3 +287,22 @@ We build living systems where every tool serves life, not control."**
 Try now (10 min): [Breath Field at home](/docs/experiments/breath_field_experiments.md)
 
 ---
+
+## 📏 Evidence levels (A/B/C)
+
+- **A (replicated/quantitative):** HRV coherence (HeartMath), synchronization in nature (Strogatz), wave patterns (cymatics basics).
+- **B (strong empirical, debated):** Biophotons (Popp), social RNG deviations (GCP), water EM signatures (Benveniste).
+- **C (exploratory/controversial):** Water structuring by intention/sound (Emoto). → Design tests, prereg, publish all results.
+
+See: [docs/theory/experimental_references.md](docs/theory/experimental_references.md)
+
+---
+
+## ✅ Choose your path
+
+- **Scientists:** OSF prereg + [Breath Field protocol](/docs/experiments/breath_field_experiments.md); share CSV via [Experiment Report](.github/ISSUE_TEMPLATE/experiment_report.md).
+- **Engineers/AI:** add coherence metric (E=A·R·L−S) and A/B it; open [Collaboration](.github/ISSUE_TEMPLATE/collaboration.md).
+- **Educators/Leaders:** 5‑min shared silence before decisions; log outcomes; post [Question/Discussion](.github/ISSUE_TEMPLATE/question.md).
+- **Everyone:** 10‑min starter — breath 4‑2‑6‑2, warm light, no multitask; note how you feel.
+
+---
