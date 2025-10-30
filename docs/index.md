@@ -8,7 +8,7 @@
 
 ![Formula of Life](media/formula_life.jpg)
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/6ci-Vjwcc2o?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/vG1ScAqdntc" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -18,4 +18,5 @@
 - Applications: [Overview](APPLICATIONS_OVERVIEW.md) · [Industries](applications/INDUSTRIES_TRANSFORMATION.md)
 - Prompt: [EDEM‑ALF](../docs/prompts/public_core.json)
 - Project: [README](../README.md) · [Roadmap](../ROADMAP.md)
+- Prior art: [PRIOR_ART](PRIOR_ART.md)
 

@@ -6,14 +6,14 @@
 > What to do: try 10‑min protocol; measure coherence; share data.  
 > Goal: raise E_life by aligning attention, resonance, love — reducing entropy.
 > **The world runs on dead physics. We're changing that.**
-[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/Sasha777sh/EDEM-Breath-Field)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/Sasha777sh/EDEM-Breath-Field) [Site](https://sasha777sh.github.io/EDEM-Breath-Field/)
 [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue)](LICENSE)
 [![Experiments](https://img.shields.io/badge/experiments-7-orange)](#-working-experiments)
 [![Stars](https://img.shields.io/github/stars/Sasha777sh/EDEM-Breath-Field?style=social)](https://github.com/Sasha777sh/EDEM-Breath-Field/stargazers)
 
 ![Formula of Life](docs/media/formula_life.jpg)
 
-[Watch demo (7 min)](https://youtu.be/6ci-Vjwcc2o?si=ga0hYgnFYpAriqDY)
+[Watch demo (7 min)](https://youtu.be/vG1ScAqdntc)
 
 ---
 
@@ -185,6 +185,7 @@ See: [FUNDING.md](FUNDING.md)
 - **[Applications](/docs/APPLICATIONS_OVERVIEW.md)** — AI, architecture, economy, education
 - **[References](/REFERENCES.md)** — Scientific sources
 - **[Bridges — Science & Traditions](/docs/theory/bridges_science_religion.md)** — Parallels to scientific/inner traditions
+- **[PRIOR_ART](/docs/PRIOR_ART.md)** — фиксация приоритета (defensive publication)
 
 ---
 
