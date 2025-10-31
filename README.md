@@ -272,6 +272,7 @@ See: [FUNDING.md](FUNDING.md)
  - **[Discovery Core](/docs/discovery/discovery_core.md)** — ядро формулы и законов (v9)
  - **[EDEM v9 → Quantum (simple)](/docs/discovery/edem_v9_quantum_simple.md)** — как это меняет квантовую физику
  - **[Penrose OR × EDEM v9 (tech)](/docs/discovery/edem_v9_penrose_bridge.md)** — технический мост
+  - **[Quantum Biology of Plants (v9)](/docs/discovery/quantum_biology_plants_v9.md)** — квантовая биология растений
 
 ---
 
