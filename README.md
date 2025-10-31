@@ -275,6 +275,7 @@ See: [FUNDING.md](FUNDING.md)
   - **[Quantum Biology of Plants (v9)](/docs/discovery/quantum_biology_plants_v9.md)** — квантовая биология растений
   - **[Quantum Biology of Animals (v9)](/docs/discovery/quantum_biology_animals_v9.md)** — квантовая биология животных
   - **[Quantum Biology of Bacteria (v9)](/docs/discovery/quantum_biology_bacteria_v9.md)** — квантовая биология бактерий
+  - **[Quantum Biology — simple](/docs/discovery/quantum_biology_simple.md)** — простое объяснение
 
 ---
 
