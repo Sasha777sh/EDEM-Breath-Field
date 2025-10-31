@@ -1,0 +1,16 @@
+EDEM Ethical License v9 (2025-10-31)
+
+Permissions:
+- Use, reproduce, and modify the Work for peaceful, life-supporting purposes only.
+- Share derivatives under the same Ethical License and credit the original author (Alexander Shelementev, EDEM Initiative).
+
+Prohibitions:
+- No military, surveillance, coercive psychological, or manipulative applications.
+- No uses that increase structural entropy (S) or harm living systems and ecosystems.
+
+Requirements:
+- Cite: "EDEM v9 — Physics of Life"; link to repository.
+- Publish experimental data and methods openly where feasible.
+- Respect privacy; anonymize biosignals.
+
+This Ethical License complements CC BY-SA 4.0 for open materials in the repository. In case of conflict, the stricter ethical clause prevails.
