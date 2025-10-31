@@ -181,10 +181,16 @@ See: [FUNDING.md](FUNDING.md)
 - **[Scientific Paper](/docs/theory/physics_of_life_paper.md)** — Academic formulation
 - **[8 Laws](/docs/theory/unified_laws.md)** — Core principles explained
 - **[Mathematical Framework](/docs/theory/equations.md)** — Formulas & proofs
+- **[Light Boundary](/docs/theory/light_boundary.md)** — Порог формы и осознавания
+- **[Seven Sciences of Life](/docs/disciplines/seven_sciences_of_life.md)** — Единый обзор
+- **[Living Economy](/docs/disciplines/living_economy.md)** · **[Living Politics](/docs/disciplines/living_politics.md)**
+- **[12 Phases of Living Discovery](/docs/methods/12_phases_living_discovery.md)**
 - **[Experiments Map](/docs/experiments/experiments_map.md)** — All protocols
 - **[Applications](/docs/APPLICATIONS_OVERVIEW.md)** — AI, architecture, economy, education
 - **[References](/REFERENCES.md)** — Scientific sources
 - **[Bridges — Science & Traditions](/docs/theory/bridges_science_religion.md)** — Parallels to scientific/inner traditions
+- **[Bible as Physics of Life](/docs/traditions/bible_as_living_physics.md)** — Карта «цитата → принцип → применение»
+- **[Living Boats (no battery)](/docs/experiments/living_boats.md)** — 6 прототипов живого движения
 - **[PRIOR_ART](/docs/PRIOR_ART.md)** — фиксация приоритета (defensive publication)
 - **[Living Gospel](/docs/traditions/living_gospel.md)** — 20 отрывков и нейтральные комментарии
 - **[Living Gospel — Week 1](/docs/practices/living_gospel_week1.md)** — 7‑дневная практика

@@ -13,12 +13,19 @@
 ---
 
 ## Quick links
+
 - Theory: [Equations](theory/equations.md) · [Unified Laws](theory/unified_laws.md)
+- Theory+: [Light Boundary](theory/light_boundary.md)
 - Experiments: [Breath Field](experiments/breath_field_experiments.md) · [Map](experiments/experiments_map.md)
 - Applications: [Overview](APPLICATIONS_OVERVIEW.md) · [Industries](applications/INDUSTRIES_TRANSFORMATION.md)
 - Prompt: [EDEM‑ALF](../docs/prompts/public_core.json)
 - Project: [README](../README.md) · [Roadmap](../ROADMAP.md)
 - Prior art: [PRIOR_ART](PRIOR_ART.md)
 - Traditions: [Living Gospel](traditions/living_gospel.md)
+- Traditions+: [Bible as Physics of Life](traditions/bible_as_living_physics.md)
 - Practices: [Living Gospel — Week 1](../docs/practices/living_gospel_week1.md)
+- Practices+: [Ego Dissolution](../docs/practices/ego_dissolution.md)
+- Experiments+: [Living Boats (no battery)](experiments/living_boats.md)
+- Disciplines: [Seven Sciences](disciplines/seven_sciences_of_life.md) · [Living Economy](disciplines/living_economy.md) · [Living Politics](disciplines/living_politics.md)
+- Methods: [12 Phases of Living Discovery](methods/12_phases_living_discovery.md)
 
