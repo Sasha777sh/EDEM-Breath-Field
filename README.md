@@ -192,6 +192,7 @@ See: [FUNDING.md](FUNDING.md)
 - **[Seven Sciences of Life](/docs/disciplines/seven_sciences_of_life.md)** — Единый обзор
 - **[Living Economy](/docs/disciplines/living_economy.md)** · **[Living Politics](/docs/disciplines/living_politics.md)**
 - **[12 Phases of Living Discovery](/docs/methods/12_phases_living_discovery.md)**
+- **[Photon as Toroidal Vortex](/docs/theory/photon_toroidal_vortex.md)** — гипотеза + предсказания
 - **[Experiments Map](/docs/experiments/experiments_map.md)** — All protocols
 - **[Applications](/docs/APPLICATIONS_OVERVIEW.md)** — AI, architecture, economy, education
 - **[References](/REFERENCES.md)** — Scientific sources

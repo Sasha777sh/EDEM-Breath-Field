@@ -24,6 +24,7 @@
 
 - Theory: [Equations](theory/equations.md) · [Unified Laws](theory/unified_laws.md)
 - Theory+: [Light Boundary](theory/light_boundary.md)
+- Theory++: [Photon as Toroidal Vortex](theory/photon_toroidal_vortex.md)
 - Experiments: [Breath Field](experiments/breath_field_experiments.md) · [Map](experiments/experiments_map.md)
 - Applications: [Overview](APPLICATIONS_OVERVIEW.md) · [Industries](applications/INDUSTRIES_TRANSFORMATION.md)
 - Prompt: [EDEM‑ALF](../docs/prompts/public_core.json)
