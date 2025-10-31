@@ -1,3 +1,6 @@
+# EDEM v9 — Restricted Module (EDEM‑Ethical v9 required)
+# Usage permitted only for peaceful, life‑supporting purposes.
+# Activate after 3‑minute Silence License (breath 6/min) per Sharing Protocol.
 #!/usr/bin/env python3
 """
 Теневой Кодер: Python-Arduino мост для биомодуляции

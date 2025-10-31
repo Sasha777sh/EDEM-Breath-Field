@@ -1,3 +1,6 @@
+// EDEM v9 — Restricted Module (EDEM‑Ethical v9 required)
+// Usage permitted only for peaceful, life‑supporting purposes.
+// Activate after 3‑minute Silence License (breath 6/min) per Sharing Protocol.
 /*
  * Теневой Кодер: Arduino датчик дыхания для биомодуляции
  * Защищённая версия с калибровкой и защитой от перегрузки
