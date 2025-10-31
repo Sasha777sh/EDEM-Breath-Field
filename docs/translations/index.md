@@ -31,6 +31,25 @@ README_FULL:
 - Deutsch (full): [/translations/README_FULL.de.md](../../translations/README_FULL.de.md)
 - 日本語 (full): [/translations/README_FULL.ja.md](../../translations/README_FULL.ja.md)
 - Bahasa Indonesia (full): [/translations/README_FULL.id.md](../../translations/README_FULL.id.md)
+
+One Pager:
+
+- Español: [/translations/one_pager.es.md](../../translations/one_pager.es.md)
+- 中文: [/translations/one_pager.zh.md](../../translations/one_pager.zh.md)
+- Tiếng Việt: [/translations/one_pager.vi.md](../../translations/one_pager.vi.md)
+
+Discovery Core:
+
+- Español: [/translations/discovery_core.es.md](../../translations/discovery_core.es.md)
+- 中文: [/translations/discovery_core.zh.md](../../translations/discovery_core.zh.md)
+- Tiếng Việt: [/translations/discovery_core.vi.md](../../translations/discovery_core.vi.md)
+
+Unified Laws:
+
+- Español: [/translations/unified_laws.es.md](../../translations/unified_laws.es.md)
+- 中文: [/translations/unified_laws.zh.md](../../translations/unified_laws.zh.md)
+- Tiếng Việt: [/translations/unified_laws.vi.md](../../translations/unified_laws.vi.md)
+
 ---
 New languages:
 
