@@ -28,6 +28,14 @@
 
 ---
 
+## 🌐 Languages
+
+- EN (short): this page
+- RU (full): [README_RU.md](README_RU.md)
+- All translations: [translations/README.md](translations/README.md)
+
+---
+
 ## 🚀 Why it changes everything
 
 - AI → from control to resonance: systems align to human/nature rhythms. Target: ↑ time‑in‑coherence, ↓ error rate.

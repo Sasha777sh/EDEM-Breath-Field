@@ -38,3 +38,11 @@
 - Disciplines: [Seven Sciences](disciplines/seven_sciences_of_life.md) · [Living Economy](disciplines/living_economy.md) · [Living Politics](disciplines/living_politics.md)
 - Methods: [12 Phases of Living Discovery](methods/12_phases_living_discovery.md)
 
+---
+
+## Languages
+
+- English (short): [Project README](../README.md)
+- Русский (полный): [README_RU.md](../README_RU.md)
+- All translations: [docs/translations/index.md](translations/index.md)
+
