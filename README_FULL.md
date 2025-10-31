@@ -379,7 +379,7 @@ We build living systems where every tool serves life, not control."**
 Пока есть ритм — есть жизнь.  
 Пока есть любовь — всё обратимо.
 
-**Languages:** [English](README.md) • [Русский](README_RU.md)
+**Languages:** [English](README.md) • [Русский](README_RU.md) • [Español (FULL)](translations/README_FULL.es.md) • [中文 (FULL)](translations/README_FULL.zh.md) • [Tiếng Việt (FULL)](translations/README_FULL.vi.md)
 
 ## 🔁 Old vs New — at a glance
 

@@ -18,6 +18,12 @@
 - فارسی: [/translations/README.fa.md](../../translations/README.fa.md)
 - Polski: [/translations/README.pl.md](../../translations/README.pl.md)
 - Українська: [/translations/README.uk.md](../../translations/README.uk.md)
+  
+README_FULL:
+
+- Español (full): [/translations/README_FULL.es.md](../../translations/README_FULL.es.md)
+- 中文 (full): [/translations/README_FULL.zh.md](../../translations/README_FULL.zh.md)
+- Tiếng Việt (full): [/translations/README_FULL.vi.md](../../translations/README_FULL.vi.md)
 ---
 New languages:
 
