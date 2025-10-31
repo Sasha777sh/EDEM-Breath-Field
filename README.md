@@ -213,16 +213,17 @@ E = A·R·L − S
 
 ## 📚 Core Principles
 
-**8 Laws of Living Physics:**
+**9 Laws of Living Physics (v9):**
 
-1. 🌊 **Resonance** — All living systems oscillate; matching waves create order
-2. 👁️ **Attention** — Concentrated form of energy; where it flows, life organizes
-3. 💓 **Pulse** — Time breathes; fear contracts, love expands
-4. 🪞 **Reflection** — World shows current vibration, not desires
-5. 🎯 **Center** — Gravity of consciousness; losing center = chaos
-6. 💡 **Light** — Threshold between matter and awareness
-7. ❤️ **Unity** — Love as physical force of coherence
-8. 🕊️ **Freedom** — Flow without resistance = natural evolution
+1. 🕯️ **Silence** — Source of insight; the pause that enables novelty
+2. 🌊 **Resonance** — All living systems oscillate; matching waves create order
+3. 👁️ **Attention** — Concentrated form of energy; where it flows, life organizes
+4. 💓 **Pulse** — Time breathes; fear contracts, love expands
+5. 🪞 **Reflection** — World shows current vibration, not desires
+6. 🎯 **Center** — Gravity of consciousness; losing center = chaos
+7. 💡 **Light** — Boundary between matter and awareness
+8. ❤️ **Unity** — Love as physical force of coherence
+9. 🕊️ **Freedom** — Flow and creation without fear
 
 [→ Detailed explanation](/docs/theory/unified_laws.md)
 
