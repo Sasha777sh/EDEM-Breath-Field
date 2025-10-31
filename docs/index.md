@@ -19,4 +19,6 @@
 - Prompt: [EDEM‑ALF](../docs/prompts/public_core.json)
 - Project: [README](../README.md) · [Roadmap](../ROADMAP.md)
 - Prior art: [PRIOR_ART](PRIOR_ART.md)
+- Traditions: [Living Gospel](traditions/living_gospel.md)
+- Practices: [Living Gospel — Week 1](../docs/practices/living_gospel_week1.md)
 

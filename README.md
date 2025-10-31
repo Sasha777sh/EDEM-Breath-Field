@@ -186,6 +186,8 @@ See: [FUNDING.md](FUNDING.md)
 - **[References](/REFERENCES.md)** — Scientific sources
 - **[Bridges — Science & Traditions](/docs/theory/bridges_science_religion.md)** — Parallels to scientific/inner traditions
 - **[PRIOR_ART](/docs/PRIOR_ART.md)** — фиксация приоритета (defensive publication)
+- **[Living Gospel](/docs/traditions/living_gospel.md)** — 20 отрывков и нейтральные комментарии
+- **[Living Gospel — Week 1](/docs/practices/living_gospel_week1.md)** — 7‑дневная практика
 
 ---
 
