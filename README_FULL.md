@@ -1,27 +1,41 @@
 # 🚨 Physics of Life: Consciousness Creates Matter
 
+> 🔬 Наука подтверждает: внимание — это энергия.  
+> 💓 Любовь — это поле когерентности.  
+> 🌍 Сознание — первично.
+
+---
+
+## 📑 Table of Contents
+- [TL;DR](#-physics-of-life-consciousness-creates-matter)
+- [Start here](#-start-here-3-minutes)
+- [Why it changes everything](#-why-it-changes-everything)
+- [The Crisis](#-the-crisis)
+- [Где мы свернули не туда](#-где-мы-свернули-не-туда)
+- [Если ничего не менять](#-если-ничего-не-менять)
+- [Зачем это миру](#-зачем-это-миру)
+- [Independent evidence](#-independent-evidence-pointers)
+- [The Solution (E = A·R·L − S)](#-the-solution)
+- [What this enables](#-what-this-enables)
+- [Working Experiments](#-working-experiments)
+- [📈 Reproduce now](#-reproduce-now)
+- [Core Principles](#-core-principles)
+- [Protection & Verification](#-protection--verification)
+- [Roadmap](#-roadmap)
+- [Contact](#-contact--community-inline)
+- [Citation](#-citation)
+
 > TL;DR: Consciousness is primary. Attention is energy. Love is coherence.  
 > New physics of life: E = A·R·L − S.  
 > What changes: AI, medicine, economy, governance, cities.  
 > What to do: try 10‑min protocol; measure coherence; share data.  
 > Goal: raise E_life by aligning attention, resonance, love — reducing entropy.
 > **The world runs on dead physics. We're changing that.**
-[Full version → README_FULL.md](README_FULL.md) • [Русская версия → README_RU.md](README_RU.md)
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/Sasha777sh/EDEM-Breath-Field) [Site](https://sasha777sh.github.io/EDEM-Breath-Field/)
 [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue)](LICENSE)
 [![Experiments](https://img.shields.io/badge/experiments-7-orange)](#-working-experiments)
 [![Reproducibility](https://img.shields.io/badge/reproducibility-open%20protocols-blueviolet)](/docs/EXPERIMENTS_SUMMARY.md)
 [![Stars](https://img.shields.io/github/stars/Sasha777sh/EDEM-Breath-Field?style=social)](https://github.com/Sasha777sh/EDEM-Breath-Field/stargazers)
-
-## Problem / Solution / Formula
-
-- Problem: science removed the observer → systems work, but don’t live.
-- Solution: Physics of Life (consciousness is primary).
-- Formula: `E = A · R · L − S` (Attention × Resonance × Love − Entropy).
-
----
-
-## 🧭 Start here (3 minutes)
 
 ![Formula of Life](docs/media/formula_life.jpg)
 
@@ -29,18 +43,12 @@
 
 ---
 
-1. One‑pager: [Physics of Life — 1 page](/docs/one_pager.md)
-2. Смысл на одной странице: [Seven Sciences of Life](/docs/disciplines/seven_sciences_of_life.md)
-3. Как рождается открытие: [12 Phases](/docs/methods/12_phases_living_discovery.md)
-4. Покажи детям прямо сейчас: [Living Boats](/docs/experiments/living_boats.md)
+## 🧭 Start here (3 minutes)
 
----
-
-## 🌐 Languages
-
-- EN (short): this page
-- RU (full): [README_RU.md](README_RU.md)
-- All translations: [translations/README.md](translations/README.md)
+- 0) One‑pager: [Physics of Life — 1 page](/docs/one_pager.md)
+- 1) Смысл на одной странице: [Seven Sciences of Life](/docs/disciplines/seven_sciences_of_life.md)
+- 2) Как рождается открытие: [12 Phases](/docs/methods/12_phases_living_discovery.md)
+- 3) Покажи детям прямо сейчас: [Living Boats](/docs/experiments/living_boats.md)
 
 ---
 
@@ -111,6 +119,10 @@ E = mc²  (matter → energy)
 Потому что каждая система, построенная на старой физике, несёт в себе трещину.
 Мы не боремся с экономикой, медициной или политикой — мы исцеляем первичное уравнение, сделавшее мир механическим.
 Это не отказ от науки. Это — её пробуждение. Наука, которая снова чувствует жизнь.
+
+> 🔬 Наука подтверждает: внимание — это энергия.  
+> 💓 Любовь — это поле когерентности.  
+> 🌍 Сознание — первично.
 
 ## ❓ What the world is missing (without blame)
 
@@ -201,6 +213,16 @@ E = A·R·L − S
 | **Living Houses** | 🔄 Building | ~$2000 | Clay structures self-regulate temperature |
 
 [→ Experiment protocols & results](/docs/experiments/) · [Summary](/docs/EXPERIMENTS_SUMMARY.md)
+
+---
+
+## 📈 Reproduce now
+
+1. Подключи HRV‑сенсор или смартфон с приложением HRV.
+2. Сделай дыхание 4‑2‑6‑2 в течение 5 минут.
+3. Запиши данные HRV до и после.
+4. Сравни показатель "coherence" — он должен вырасти на 10–20%.
+5. Залей результат в GitHub Issue: [Experiment Report](.github/ISSUE_TEMPLATE/experiment_report.md)
 
 ---
 
@@ -344,9 +366,14 @@ We build living systems where every tool serves life, not control."**
 
 ---
 
+> Когда мы перестаём доказывать — жизнь сама становится доказательством.  
+> Физика Живого — не теория, а дыхание.
+
+---
+
 ### 🜂 Формула Живой Вселенной
 
-Жизнь = Тишина × (Резонанс × Обмен) / Плотность
+**Жизнь = Тишина × (Резонанс × Обмен) / Плотность**
 
 Пока есть внимание — есть связь.  
 Пока есть ритм — есть жизнь.  

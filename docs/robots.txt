@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sasha777sh.github.io/EDEM-Breath-Field/sitemap.xml

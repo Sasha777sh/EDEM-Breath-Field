@@ -8,14 +8,41 @@
 
 ![Formula of Life](media/formula_life.jpg)
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/6ci-Vjwcc2o?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/vG1ScAqdntc" frameborder="0" allowfullscreen></iframe>
+
+---
+
+## Start here
+
+- Seven Sciences (overview): [disciplines/seven_sciences_of_life.md](disciplines/seven_sciences_of_life.md)
+- 12 Phases (diagram): [methods/12_phases_living_discovery.md](methods/12_phases_living_discovery.md)
+- Show kids now: [experiments/living_boats.md](experiments/living_boats.md)
 
 ---
 
 ## Quick links
+
 - Theory: [Equations](theory/equations.md) · [Unified Laws](theory/unified_laws.md)
+- Theory+: [Light Boundary](theory/light_boundary.md)
+- Theory++: [Photon as Toroidal Vortex](theory/photon_toroidal_vortex.md)
 - Experiments: [Breath Field](experiments/breath_field_experiments.md) · [Map](experiments/experiments_map.md)
 - Applications: [Overview](APPLICATIONS_OVERVIEW.md) · [Industries](applications/INDUSTRIES_TRANSFORMATION.md)
 - Prompt: [EDEM‑ALF](../docs/prompts/public_core.json)
 - Project: [README](../README.md) · [Roadmap](../ROADMAP.md)
+- Prior art: [PRIOR_ART](PRIOR_ART.md)
+- Traditions: [Living Gospel](traditions/living_gospel.md)
+- Traditions+: [Bible as Physics of Life](traditions/bible_as_living_physics.md)
+- Practices: [Living Gospel — Week 1](../docs/practices/living_gospel_week1.md)
+- Practices+: [Ego Dissolution](../docs/practices/ego_dissolution.md)
+- Experiments+: [Living Boats (no battery)](experiments/living_boats.md)
+- Disciplines: [Seven Sciences](disciplines/seven_sciences_of_life.md) · [Living Economy](disciplines/living_economy.md) · [Living Politics](disciplines/living_politics.md)
+- Methods: [12 Phases of Living Discovery](methods/12_phases_living_discovery.md)
+
+---
+
+## Languages
+
+- English (short): [Project README](../README.md)
+- Русский (полный): [README_RU.md](../README_RU.md)
+- All translations: [docs/translations/index.md](translations/index.md)
 
