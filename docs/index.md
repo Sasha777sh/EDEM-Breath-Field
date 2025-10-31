@@ -12,6 +12,14 @@
 
 ---
 
+## Start here
+
+- Seven Sciences (overview): [disciplines/seven_sciences_of_life.md](disciplines/seven_sciences_of_life.md)
+- 12 Phases (diagram): [methods/12_phases_living_discovery.md](methods/12_phases_living_discovery.md)
+- Show kids now: [experiments/living_boats.md](experiments/living_boats.md)
+
+---
+
 ## Quick links
 
 - Theory: [Equations](theory/equations.md) · [Unified Laws](theory/unified_laws.md)

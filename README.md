@@ -17,6 +17,13 @@
 
 ---
 
+## 🧭 Start here (3 minutes)
+- 1) Смысл на одной странице: [Seven Sciences of Life](/docs/disciplines/seven_sciences_of_life.md)
+- 2) Как рождается открытие: [12 Phases](/docs/methods/12_phases_living_discovery.md)
+- 3) Покажи детям прямо сейчас: [Living Boats](/docs/experiments/living_boats.md)
+
+---
+
 ## 🚀 Why it changes everything
 
 - AI → from control to resonance: systems align to human/nature rhythms. Target: ↑ time‑in‑coherence, ↓ error rate.
