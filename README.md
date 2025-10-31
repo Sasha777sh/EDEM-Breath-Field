@@ -13,13 +13,21 @@
 [![Reproducibility](https://img.shields.io/badge/reproducibility-open%20protocols-blueviolet)](/docs/EXPERIMENTS_SUMMARY.md)
 [![Stars](https://img.shields.io/github/stars/Sasha777sh/EDEM-Breath-Field?style=social)](https://github.com/Sasha777sh/EDEM-Breath-Field/stargazers)
 
+## Problem / Solution / Formula
+
+- Problem: science removed the observer → systems work, but don’t live.
+- Solution: Physics of Life (consciousness is primary).
+- Formula: `E = A · R · L − S` (Attention × Resonance × Love − Entropy).
+
+---
+
+## 🧭 Start here (3 minutes)
+
 ![Formula of Life](docs/media/formula_life.jpg)
 
 [Watch demo (7 min)](https://youtu.be/vG1ScAqdntc)
 
 ---
-
-## 🧭 Start here (3 minutes)
 
 1. One‑pager: [Physics of Life — 1 page](/docs/one_pager.md)
 2. Смысл на одной странице: [Seven Sciences of Life](/docs/disciplines/seven_sciences_of_life.md)
