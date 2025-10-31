@@ -269,6 +269,9 @@ See: [FUNDING.md](FUNDING.md)
 - **[PRIOR_ART](/docs/PRIOR_ART.md)** — фиксация приоритета (defensive publication)
 - **[Living Gospel](/docs/traditions/living_gospel.md)** — 20 отрывков и нейтральные комментарии
 - **[Living Gospel — Week 1](/docs/practices/living_gospel_week1.md)** — 7‑дневная практика
+ - **[Discovery Core](/docs/discovery/discovery_core.md)** — ядро формулы и законов (v9)
+ - **[EDEM v9 → Quantum (simple)](/docs/discovery/edem_v9_quantum_simple.md)** — как это меняет квантовую физику
+ - **[Penrose OR × EDEM v9 (tech)](/docs/discovery/edem_v9_penrose_bridge.md)** — технический мост
 
 ---
 
