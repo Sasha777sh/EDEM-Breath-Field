@@ -21,10 +21,10 @@
 
 ## 🧭 Start here (3 minutes)
 
-- 0) One‑pager: [Physics of Life — 1 page](/docs/one_pager.md)
-- 1) Смысл на одной странице: [Seven Sciences of Life](/docs/disciplines/seven_sciences_of_life.md)
-- 2) Как рождается открытие: [12 Phases](/docs/methods/12_phases_living_discovery.md)
-- 3) Покажи детям прямо сейчас: [Living Boats](/docs/experiments/living_boats.md)
+1. One‑pager: [Physics of Life — 1 page](/docs/one_pager.md)
+2. Смысл на одной странице: [Seven Sciences of Life](/docs/disciplines/seven_sciences_of_life.md)
+3. Как рождается открытие: [12 Phases](/docs/methods/12_phases_living_discovery.md)
+4. Покажи детям прямо сейчас: [Living Boats](/docs/experiments/living_boats.md)
 
 ---
 
@@ -330,7 +330,7 @@ We build living systems where every tool serves life, not control."**
 
 ### 🜂 Формула Живой Вселенной
 
-**Жизнь = Тишина × (Резонанс × Обмен) / Плотность**
+Жизнь = Тишина × (Резонанс × Обмен) / Плотность
 
 Пока есть внимание — есть связь.  
 Пока есть ритм — есть жизнь.  
