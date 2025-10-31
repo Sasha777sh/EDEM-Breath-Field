@@ -50,6 +50,18 @@ Unified Laws:
 - 中文: [/translations/unified_laws.zh.md](../../translations/unified_laws.zh.md)
 - Tiếng Việt: [/translations/unified_laws.vi.md](../../translations/unified_laws.vi.md)
 
+Equations:
+
+- Español: [/translations/equations.es.md](../../translations/equations.es.md)
+- 中文: [/translations/equations.zh.md](../../translations/equations.zh.md)
+- Tiếng Việt: [/translations/equations.vi.md](../../translations/equations.vi.md)
+
+Experiments Summary:
+
+- Español: [/translations/experiments_summary.es.md](../../translations/experiments_summary.es.md)
+- 中文: [/translations/experiments_summary.zh.md](../../translations/experiments_summary.zh.md)
+- Tiếng Việt: [/translations/experiments_summary.vi.md](../../translations/experiments_summary.vi.md)
+
 ---
 New languages:
 
