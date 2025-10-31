@@ -113,3 +113,17 @@ Operationally, \( E_{life} \propto A \cdot R \cdot L - S \) predicts task perfor
 
 Repository: https://github.com/Sasha777sh/EDEM-Breath-Field  
 Cite with DOI (to be updated).
+
+---
+
+## Evidence status (2024–2025)
+
+Confirmed (physiology/biophysics):
+- 6/min breathing (≈0.1 Hz) → HRV coherence ↑ (baroreflex; vagal pathways)
+- HRV coherence correlates with cortical gamma (~40 Hz) during focused breathing/biofeedback
+
+Hypotheses (require prereg/tests):
+- HRV/LF envelope → modulation of THz microtubule modes
+- THz → biophoton emission changes → gamma coherence mediation
+
+Notes: Frame as “based on 2025 data + interpretation”; preregister, publish nulls, include effect sizes.

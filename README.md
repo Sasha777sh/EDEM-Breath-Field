@@ -272,6 +272,8 @@ See: [FUNDING.md](FUNDING.md)
  - **[EDEM v9 — Монетизация и Защита](/EDEM-v9_License_and_Monetization.md)** — единый документ
  - **[EDEM v9 — Sharing Protocol](/EDEM-v9_Sharing_Protocol.md)** — уровни доступа/передачи
  - Restricted modules: `arduino_breath_sensor.ino`, `python_arduino_bridge.py` — требуют EDEM‑Ethical v9
+ - **[Breath Transfer Protocol](/EDEM_v9_Breath_Protocol.md)** — устный ритуал передачи (public)
+ - **[Access Matrix](/ACCESS.md)** — уровни I/II/III и формы допуска
  - **[Discovery Core](/docs/discovery/discovery_core.md)** — ядро формулы и законов (v9)
  - **[EDEM v9 → Quantum (simple)](/docs/discovery/edem_v9_quantum_simple.md)** — как это меняет квантовую физику
  - **[Penrose OR × EDEM v9 (tech)](/docs/discovery/edem_v9_penrose_bridge.md)** — технический мост
