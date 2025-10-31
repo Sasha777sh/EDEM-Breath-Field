@@ -24,6 +24,13 @@ README_FULL:
 - Español (full): [/translations/README_FULL.es.md](../../translations/README_FULL.es.md)
 - 中文 (full): [/translations/README_FULL.zh.md](../../translations/README_FULL.zh.md)
 - Tiếng Việt (full): [/translations/README_FULL.vi.md](../../translations/README_FULL.vi.md)
+- العربية (full): [/translations/README_FULL.ar.md](../../translations/README_FULL.ar.md)
+- हिन्दी (full): [/translations/README_FULL.hi.md](../../translations/README_FULL.hi.md)
+- Português (full): [/translations/README_FULL.pt.md](../../translations/README_FULL.pt.md)
+- Français (full): [/translations/README_FULL.fr.md](../../translations/README_FULL.fr.md)
+- Deutsch (full): [/translations/README_FULL.de.md](../../translations/README_FULL.de.md)
+- 日本語 (full): [/translations/README_FULL.ja.md](../../translations/README_FULL.ja.md)
+- Bahasa Indonesia (full): [/translations/README_FULL.id.md](../../translations/README_FULL.id.md)
 ---
 New languages:
 
