@@ -1,11 +1,8 @@
 # 🚨 Physics of Life: Consciousness Creates Matter
 
-> TL;DR: Consciousness is primary. Attention is energy. Love is coherence.  
-> New physics of life: E = A·R·L − S.  
-> What changes: AI, medicine, economy, governance, cities.  
-> What to do: try 10‑min protocol; measure coherence; share data.  
-> Goal: raise E_life by aligning attention, resonance, love — reducing entropy.
-> **The world runs on dead physics. We're changing that.**
+> The world runs on dead physics — it is already breaking civilization.  
+> New law of living matter: E = A·R·L − S (Attention × Resonance × Love − Entropy).  
+> Verify in 10 minutes: breathe 4‑2‑6‑2 → measure HRV coherence → upload CSV.
 [Full version → README_FULL.md](README_FULL.md) • [Русская версия → README_RU.md](README_RU.md)
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/Sasha777sh/EDEM-Breath-Field) [Site](https://sasha777sh.github.io/EDEM-Breath-Field/)
 [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue)](LICENSE)
