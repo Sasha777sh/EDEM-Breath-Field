@@ -37,30 +37,52 @@ One Pager:
 - Español: [/translations/one_pager.es.md](../../translations/one_pager.es.md)
 - 中文: [/translations/one_pager.zh.md](../../translations/one_pager.zh.md)
 - Tiếng Việt: [/translations/one_pager.vi.md](../../translations/one_pager.vi.md)
+- العربية: [/translations/one_pager.ar.md](../../translations/one_pager.ar.md)
+- हिन्दी: [/translations/one_pager.hi.md](../../translations/one_pager.hi.md)
+- Português: [/translations/one_pager.pt.md](../../translations/one_pager.pt.md)
+- Français: [/translations/one_pager.fr.md](../../translations/one_pager.fr.md)
+- Deutsch: [/translations/one_pager.de.md](../../translations/one_pager.de.md)
+- 日本語: [/translations/one_pager.ja.md](../../translations/one_pager.ja.md)
+- Bahasa Indonesia: [/translations/one_pager.id.md](../../translations/one_pager.id.md)
 
 Discovery Core:
 
 - Español: [/translations/discovery_core.es.md](../../translations/discovery_core.es.md)
 - 中文: [/translations/discovery_core.zh.md](../../translations/discovery_core.zh.md)
 - Tiếng Việt: [/translations/discovery_core.vi.md](../../translations/discovery_core.vi.md)
+- العربية: [/translations/discovery_core.ar.md](../../translations/discovery_core.ar.md)
+- हिन्दी: [/translations/discovery_core.hi.md](../../translations/discovery_core.hi.md)
+- Português: [/translations/discovery_core.pt.md](../../translations/discovery_core.pt.md)
+- Français: [/translations/discovery_core.fr.md](../../translations/discovery_core.fr.md)
+- Deutsch: [/translations/discovery_core.de.md](../../translations/discovery_core.de.md)
+- 日本語: [/translations/discovery_core.ja.md](../../translations/discovery_core.ja.md)
+- Bahasa Indonesia: [/translations/discovery_core.id.md](../../translations/discovery_core.id.md)
 
 Unified Laws:
 
 - Español: [/translations/unified_laws.es.md](../../translations/unified_laws.es.md)
 - 中文: [/translations/unified_laws.zh.md](../../translations/unified_laws.zh.md)
 - Tiếng Việt: [/translations/unified_laws.vi.md](../../translations/unified_laws.vi.md)
+- हिन्दी: [/translations/unified_laws.hi.md](../../translations/unified_laws.hi.md)
+- Português: [/translations/unified_laws.pt.md](../../translations/unified_laws.pt.md)
+- Français: [/translations/unified_laws.fr.md](../../translations/unified_laws.fr.md)
+- Deutsch: [/translations/unified_laws.de.md](../../translations/unified_laws.de.md)
+- 日本語: [/translations/unified_laws.ja.md](../../translations/unified_laws.ja.md)
+- Bahasa Indonesia: [/translations/unified_laws.id.md](../../translations/unified_laws.id.md)
 
 Equations:
 
 - Español: [/translations/equations.es.md](../../translations/equations.es.md)
 - 中文: [/translations/equations.zh.md](../../translations/equations.zh.md)
 - Tiếng Việt: [/translations/equations.vi.md](../../translations/equations.vi.md)
+- *(AR/HI/PT/FR/DE/JA/ID — coming soon)*
 
 Experiments Summary:
 
 - Español: [/translations/experiments_summary.es.md](../../translations/experiments_summary.es.md)
 - 中文: [/translations/experiments_summary.zh.md](../../translations/experiments_summary.zh.md)
 - Tiếng Việt: [/translations/experiments_summary.vi.md](../../translations/experiments_summary.vi.md)
+- *(AR/HI/PT/FR/DE/JA/ID — coming soon)*
 
 ---
 New languages:
