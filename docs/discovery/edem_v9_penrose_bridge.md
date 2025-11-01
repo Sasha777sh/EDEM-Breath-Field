@@ -7,6 +7,7 @@ Timestamp: 2025‑10‑27
 ---
 
 ## Purpose
+
 A concise technical mapping between Penrose–Hameroff Orch OR and EDEM v9 (9 Laws + E = A·R·L − S), oriented for physicists, neuroscientists and bio‑signal engineers.
 
 ---
@@ -70,6 +71,7 @@ Hypothesis: increasing LF HRV coherence extends effective \(\tau\) windows (redu
 4) Expected: LF coherence ↑ → gamma coherence ↑; where feasible, photonic spectral tightening.
 
 Metrics sketch:
+
 - \( L_{HRV} = \text{LFpeak} / \text{LFtotal} \) (or SDNN/RMSSD ratio surrogate)
 - \( R_{EEG} = C_{\gamma} \) (pairwise or global coherence)
 - \( S \) proxies: stress scores, HF suppression, skin conductance ↑
@@ -111,7 +113,7 @@ Operationally, \( E_{life} \propto A \cdot R \cdot L - S \) predicts task perfor
 
 ---
 
-Repository: https://github.com/Sasha777sh/EDEM-Breath-Field  
+Repository: <https://github.com/Sasha777sh/EDEM-Breath-Field>  
 Cite with DOI (to be updated).
 
 ---
@@ -119,10 +121,12 @@ Cite with DOI (to be updated).
 ## Evidence status (2024–2025)
 
 Confirmed (physiology/biophysics):
+
 - 6/min breathing (≈0.1 Hz) → HRV coherence ↑ (baroreflex; vagal pathways)
 - HRV coherence correlates with cortical gamma (~40 Hz) during focused breathing/biofeedback
 
 Hypotheses (require prereg/tests):
+
 - HRV/LF envelope → modulation of THz microtubule modes
 - THz → biophoton emission changes → gamma coherence mediation
 

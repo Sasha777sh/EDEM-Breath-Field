@@ -7,6 +7,7 @@
 | III (private) | THz‑цепи, биофотонные диапазоны, исходники биоуправления | Личное посвящение; доступ вручную |
 
 Docs:
+
 - Sharing Protocol: EDEM‑v9_Sharing_Protocol.md
 - Ethical License: EDEM‑v9_EthicalLicense.txt
 - Breath Protocol: EDEM_v9_Breath_Protocol.md
