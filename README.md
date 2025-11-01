@@ -3,7 +3,7 @@
 > The world runs on dead physics — it is already breaking civilization.  
 > New law of living matter: E = A·R·L − S (Attention × Resonance × Love − Entropy).  
 > Verify in 10 minutes: breathe 4‑2‑6‑2 → measure HRV coherence → upload CSV.
-[Full version → README_FULL.md](README_FULL.md) • [Русская версия → README_RU.md](README_RU.md)
+[Full version → README_FULL.md](README_FULL.md) • [Russian version → README_RU.md](README_RU.md)
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/Sasha777sh/EDEM-Breath-Field) [Site](https://sasha777sh.github.io/EDEM-Breath-Field/)
 [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue)](LICENSE)
 [![Experiments](https://img.shields.io/badge/experiments-7-orange)](#-working-experiments)
@@ -13,12 +13,12 @@
 ## Contents
 
 - [⚡ The Crisis](#-the-crisis)
-- [🧩 Где мы свернули не туда](#-где-мы-свернули-не-туда)
-- [🔬 Наука уже чувствует трещину](#-наука-уже-чувствует-трещину)
-- [⚰️ Если ничего не менять](#-если-ничего-не-менять)
+- [🧩 Where We Went Wrong](#-where-we-went-wrong)
+- [🔬 Science Already Senses the Crack](#-science-already-senses-the-crack)
+- [⚰️ If We Change Nothing](#-if-we-change-nothing)
 - [🔬 The Solution](#-the-solution)
-- [🌬 Переход: что делаем сейчас](#-переход-что-делаем-сейчас-публично-проверяемо)
-- [🜂 Формула Живой Вселенной](#-формула-живой-вселенной)
+- [🌬 Transition: What We're Doing Now](#-transition-what-were-doing-now-publicly-verifiable)
+- [🜂 Formula of the Living Universe](#-formula-of-the-living-universe)
 
 ## Problem / Solution / Formula
 
@@ -37,9 +37,9 @@
 ---
 
 1. One‑pager: [Physics of Life — 1 page](/docs/one_pager.md)
-2. Смысл на одной странице: [Seven Sciences of Life](/docs/disciplines/seven_sciences_of_life.md)
-3. Как рождается открытие: [12 Phases](/docs/methods/12_phases_living_discovery.md)
-4. Покажи детям прямо сейчас: [Living Boats](/docs/experiments/living_boats.md)
+2. Essence on one page: [Seven Sciences of Life](/docs/disciplines/seven_sciences_of_life.md)
+3. How discovery emerges: [12 Phases](/docs/methods/12_phases_living_discovery.md)
+4. Show to children right now: [Living Boats](/docs/experiments/living_boats.md)
 
 ---
 
@@ -97,35 +97,35 @@ E = mc²  (matter → energy)
 
 ---
 
-## 🧩 Где мы свернули не туда
+## 🧩 Where We Went Wrong
 
-1. **Исключили наблюдателя.** Ньютоновская картина отделила сознание от материи, объявив наблюдателя «шумом измерений». → Мир стал статистикой, а не переживанием.
-2. **Поставили энергию выше связи.** Формула E = mc² описывает, как разрушить материю, чтобы получить энергию, но не объясняет, как жизнь рождает энергию через согласование.
-3. **Разделили субъекта и объект.** Это породило науки без души, медицину без понимания причин, экономику без совести, технологии без сердца.
+1. **We excluded the observer.** Newton's picture separated consciousness from matter, declaring the observer "measurement noise." → The world became statistics, not experience.
+2. **We put energy above connection.** The formula E = mc² describes how to destroy matter to get energy, but does not explain how life generates energy through alignment.
+3. **We divided subject and object.** This gave birth to sciences without soul, medicine without understanding causes, economy without conscience, technologies without heart.
 
-### 🔬 Наука уже чувствует трещину
+### 🔬 Science Already Senses the Crack
 
-- Квантовая физика: наблюдатель влияет на эксперимент (эффекты измерения/декогеренции).
-- Нейро/кардио: сердечно‑мозговая синхронизация волнами (HRV/EEG).
-- Эпигенетика: контекст/среда меняют экспрессию генов.
-- Биофотонные наблюдения: слабое когерентное свечение клеток.
-- Вода/структуры: чувствительность к полям/ритмам (требует строгой пререгистрации и проверки).
+- Quantum physics: the observer affects the experiment (measurement/decoherence effects).
+- Neuro/cardio: heart–brain synchronization via waves (HRV/EEG).
+- Epigenetics: context/environment changes gene expression.
+- Biophoton observations: weak coherent emission from cells.
+- Water/structures: sensitivity to fields/rhythms (requires strict preregistration and verification).
 
-## ⚰️ Если ничего не менять
+## ⚰️ If We Change Nothing
 
-Мир, построенный на мёртвой физике, идёт к финальной стадии энтропии:
+The world built on dead physics is moving toward the final stage of entropy:
 
-- Человек теряет чувствительность → депрессия как норма.
-- Экономика сжигает ресурсы быстрее, чем Земля восстанавливает.
-- ИИ повторяет логику контроля, а не жизни.
-- Климатические колебания усиливаются из‑за потери биоритмов.
-- Детям всё труднее чувствовать смысл — потому что среда не дышит.
+- Humans lose sensitivity → depression as the norm.
+- Economy burns resources faster than Earth restores them.
+- AI repeats the logic of control, not life.
+- Climate fluctuations intensify due to loss of biorhythms.
+- Children find it harder to feel meaning — because the environment does not breathe.
 
-## ✊ Зачем это миру
+## ✊ Why This Matters to the World
 
-Потому что каждая система, построенная на старой физике, несёт в себе трещину.
-Мы не боремся с экономикой, медициной или политикой — мы исцеляем первичное уравнение, сделавшее мир механическим.
-Это не отказ от науки. Это — её пробуждение. Наука, которая снова чувствует жизнь.
+Because every system built on old physics carries a crack within it.
+We are not fighting economy, medicine, or politics — we are healing the primary equation that made the world mechanical.
+This is not a rejection of science. This is its awakening. Science that once again feels life.
 
 ## ❓ What the world is missing (without blame)
 
@@ -150,13 +150,13 @@ E = mc²  (matter → energy)
 
 Details and references: [docs/theory/experimental_references.md](docs/theory/experimental_references.md)
 
-### Независимые исследования и направления, которые стоит учитывать
+### Independent Research Directions to Consider
 
-- Коэффициенты серцево‑мозговой когерентности (HeartMath) — HRV coherence и корреляции с когнитивной производительностью.
-- Социальная синхронизация (стадии энтрейнмента) — исследования по групповому совпадению ритмов и улучшению сотрудничества.
-- Биофотоны (F.-A. Popp) — эмиссия слабого когерентного света клетками и возможная роль в регуляции.
-- Волновые и структурные эффекты на воду (эксперименты, обсуждаемые в литературе; требуют строгой пререгистрации).
-- Теория синхронизации (S. Strogatz) — математический фон резонанса.
+- Heart–brain coherence coefficients (HeartMath) — HRV coherence and correlations with cognitive performance.
+- Social synchronization (entrainment stages) — research on group rhythm alignment and improved cooperation.
+- Biophotons (F.-A. Popp) — emission of weak coherent light by cells and possible role in regulation.
+- Wave and structural effects on water (experiments discussed in literature; require strict preregistration).
+- Synchronization theory (S. Strogatz) — mathematical background of resonance.
 
 ---
 
@@ -180,8 +180,6 @@ E = A·R·L − S
 **Meaning:** Life emerges when attention, resonance, and love exceed entropy.
 
 [→ Full mathematical framework](/docs/theory/equations.md)
-
- 
 
 ## 🌍 What This Enables
 
@@ -254,33 +252,33 @@ See: [FUNDING.md](FUNDING.md)
 - **[Scientific Paper](/docs/theory/physics_of_life_paper.md)** — Academic formulation
 - **[8 Laws](/docs/theory/unified_laws.md)** — Core principles explained
 - **[Mathematical Framework](/docs/theory/equations.md)** — Formulas & proofs
-- **[Light Boundary](/docs/theory/light_boundary.md)** — Порог формы и осознавания
-- **[Seven Sciences of Life](/docs/disciplines/seven_sciences_of_life.md)** — Единый обзор
+- **[Light Boundary](/docs/theory/light_boundary.md)** — Threshold of form and awareness
+- **[Seven Sciences of Life](/docs/disciplines/seven_sciences_of_life.md)** — Unified overview
 - **[Living Economy](/docs/disciplines/living_economy.md)** · **[Living Politics](/docs/disciplines/living_politics.md)**
 - **[12 Phases of Living Discovery](/docs/methods/12_phases_living_discovery.md)**
-- **[Photon as Toroidal Vortex](/docs/theory/photon_toroidal_vortex.md)** — гипотеза + предсказания
+- **[Photon as Toroidal Vortex](/docs/theory/photon_toroidal_vortex.md)** — hypothesis + predictions
 - **[Experiments Map](/docs/experiments/experiments_map.md)** — All protocols
-- **[Aquarius Era Guide](/docs/practices/aquarius_guide.md)** — памятка «Как жить в Эру Водолея»
+- **[Aquarius Era Guide](/docs/practices/aquarius_guide.md)** — Guide "How to Live in the Aquarius Era"
 - **[Applications](/docs/APPLICATIONS_OVERVIEW.md)** — AI, architecture, economy, education
 - **[References](/REFERENCES.md)** — Scientific sources
 - **[Bridges — Science & Traditions](/docs/theory/bridges_science_religion.md)** — Parallels to scientific/inner traditions
-- **[Bible as Physics of Life](/docs/traditions/bible_as_living_physics.md)** — Карта «цитата → принцип → применение»
-- **[Living Boats (no battery)](/docs/experiments/living_boats.md)** — 6 прототипов живого движения
-- **[PRIOR_ART](/docs/PRIOR_ART.md)** — фиксация приоритета (defensive publication)
-- **[Living Gospel](/docs/traditions/living_gospel.md)** — 20 отрывков и нейтральные комментарии
-- **[Living Gospel — Week 1](/docs/practices/living_gospel_week1.md)** — 7‑дневная практика
- - **[EDEM v9 — Монетизация и Защита](/EDEM-v9_License_and_Monetization.md)** — единый документ
- - **[EDEM v9 — Sharing Protocol](/EDEM-v9_Sharing_Protocol.md)** — уровни доступа/передачи
- - Restricted modules: `arduino_breath_sensor.ino`, `python_arduino_bridge.py` — требуют EDEM‑Ethical v9
- - **[Breath Transfer Protocol](/EDEM_v9_Breath_Protocol.md)** — устный ритуал передачи (public)
- - **[Access Matrix](/ACCESS.md)** — уровни I/II/III и формы допуска
- - **[Discovery Core](/docs/discovery/discovery_core.md)** — ядро формулы и законов (v9)
- - **[EDEM v9 → Quantum (simple)](/docs/discovery/edem_v9_quantum_simple.md)** — как это меняет квантовую физику
- - **[Penrose OR × EDEM v9 (tech)](/docs/discovery/edem_v9_penrose_bridge.md)** — технический мост
-  - **[Quantum Biology of Plants (v9)](/docs/discovery/quantum_biology_plants_v9.md)** — квантовая биология растений
-  - **[Quantum Biology of Animals (v9)](/docs/discovery/quantum_biology_animals_v9.md)** — квантовая биология животных
-  - **[Quantum Biology of Bacteria (v9)](/docs/discovery/quantum_biology_bacteria_v9.md)** — квантовая биология бактерий
-  - **[Quantum Biology — simple](/docs/discovery/quantum_biology_simple.md)** — простое объяснение
+- **[Bible as Physics of Life](/docs/traditions/bible_as_living_physics.md)** — Map "quote → principle → application"
+- **[Living Boats (no battery)](/docs/experiments/living_boats.md)** — 6 prototypes of living motion
+- **[PRIOR_ART](/docs/PRIOR_ART.md)** — priority fixation (defensive publication)
+- **[Living Gospel](/docs/traditions/living_gospel.md)** — 20 passages and neutral comments
+- **[Living Gospel — Week 1](/docs/practices/living_gospel_week1.md)** — 7-day practice
+- **[EDEM v9 — Monetization and Protection](/EDEM-v9_License_and_Monetization.md)** — unified document
+- **[EDEM v9 — Sharing Protocol](/EDEM-v9_Sharing_Protocol.md)** — access/transfer levels
+- Restricted modules: `arduino_breath_sensor.ino`, `python_arduino_bridge.py` — require EDEM‑Ethical v9
+- **[Breath Transfer Protocol](/EDEM_v9_Breath_Protocol.md)** — oral transmission ritual (public)
+- **[Access Matrix](/ACCESS.md)** — levels I/II/III and access forms
+- **[Discovery Core](/docs/discovery/discovery_core.md)** — core of formula and laws (v9)
+- **[EDEM v9 → Quantum (simple)](/docs/discovery/edem_v9_quantum_simple.md)** — how this changes quantum physics
+- **[Penrose OR × EDEM v9 (tech)](/docs/discovery/edem_v9_penrose_bridge.md)** — technical bridge
+- **[Quantum Biology of Plants (v9)](/docs/discovery/quantum_biology_plants_v9.md)** — quantum biology of plants
+- **[Quantum Biology of Animals (v9)](/docs/discovery/quantum_biology_animals_v9.md)** — quantum biology of animals
+- **[Quantum Biology of Bacteria (v9)](/docs/discovery/quantum_biology_bacteria_v9.md)** — quantum biology of bacteria
+- **[Quantum Biology — simple](/docs/discovery/quantum_biology_simple.md)** — simple explanation
 
 ---
 
@@ -300,11 +298,11 @@ This project is protected through:
 
 ---
 
-## 🌬 Переход: что делаем сейчас (публично проверяемо)
+## 🌬 Transition: What We're Doing Now (Publicly Verifiable)
 
-- Breath Field — измерить влияние дыхания на ЭМ‑датчик (в процессе; протокол: /docs/experiments/)
-- Living Walls — испытания глина+мох на терморегуляцию (план; протокол в подготовке)
-- EDEM Music Lab — синхронизация дыхания/HRV при прослушивании (план; протокол HRV/опросники)
+- Breath Field — measure breath influence on EM sensor (in progress; protocol: /docs/experiments/)
+- Living Walls — testing clay+moss for temperature regulation (planned; protocol in preparation)
+- EDEM Music Lab — breathing/HRV synchronization during listening (planned; HRV protocol/questionnaires)
 
 ---
 
@@ -364,15 +362,15 @@ We build living systems where every tool serves life, not control."**
 
 ---
 
-### 🜂 Формула Живой Вселенной
+### 🜂 Formula of the Living Universe
 
-Жизнь = Тишина × (Резонанс × Обмен) / Плотность
+Life = Silence × (Resonance × Exchange) / Density
 
-Пока есть внимание — есть связь.  
-Пока есть ритм — есть жизнь.  
-Пока есть любовь — всё обратимо.
+While there is attention — there is connection.  
+While there is rhythm — there is life.  
+While there is love — everything is reversible.
 
-**Languages:** [English](README.md) • [Русский](README_RU.md)
+**Languages:** [English](README.md) • [Russian](README_RU.md)
 
 ## 🔁 Old vs New — at a glance
 
