@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EDEM Breath Field — For Partners | Open Hardware Protocol</title>
+  <meta name="description" content="0.1 Hz breath-coherence protocol for HRV resonance. Open hardware license for integration into wearable devices.">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #0a0a0a;
+      color: #e0e0e0;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+    section {
+      padding: 80px 0;
+      border-bottom: 1px solid #222;
+    }
+    section:last-child {
+      border-bottom: none;
+    }
+    h1 {
+      font-size: 3.5rem;
+      font-weight: 700;
+      margin-bottom: 20px;
+      background: linear-gradient(135deg, #66a6ff, #89f7fe);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      line-height: 1.2;
+    }
+    h2 {
+      font-size: 2.5rem;
+      font-weight: 600;
+      margin-bottom: 30px;
+      color: #f0f0f0;
+    }
+    h3 {
+      font-size: 1.8rem;
+      font-weight: 600;
+      margin-bottom: 20px;
+      color: #66a6ff;
+    }
+    p {
+      font-size: 1.1rem;
+      margin-bottom: 20px;
+      color: #c0c0c0;
+    }
+    .formula {
+      font-family: 'Courier New', monospace;
+      font-size: 2rem;
+      background: #111;
+      padding: 20px 40px;
+      border-radius: 10px;
+      border: 1px solid #333;
+      text-align: center;
+      margin: 30px 0;
+      color: #89f7fe;
+    }
+    .badge {
+      display: inline-block;
+      background: #1a1a1a;
+      padding: 8px 16px;
+      border-radius: 20px;
+      border: 1px solid #333;
+      font-size: 0.9rem;
+      margin: 10px 10px 10px 0;
+    }
+    .btn {
+      display: inline-block;
+      background: linear-gradient(135deg, #66a6ff, #89f7fe);
+      color: #000;
+      padding: 16px 40px;
+      border-radius: 50px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.1rem;
+      transition: 0.3s;
+      margin-top: 20px;
+      border: none;
+      cursor: pointer;
+    }
+    .btn:hover {
+      opacity: 0.9;
+      transform: translateY(-2px);
+      box-shadow: 0 10px 30px rgba(102, 166, 255, 0.3);
+    }
+    .btn-secondary {
+      background: transparent;
+      border: 2px solid #66a6ff;
+      color: #66a6ff;
+    }
+    .btn-secondary:hover {
+      background: #66a6ff;
+      color: #000;
+    }
+    .hero {
+      text-align: center;
+      padding: 120px 0;
+      background: radial-gradient(circle at 50% 50%, #111, #000);
+    }
+    .hero-image {
+      width: 100%;
+      max-width: 600px;
+      margin: 40px auto;
+      border-radius: 20px;
+      border: 1px solid #333;
+      background: #1a1a1a;
+      padding: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.2rem;
+      color: #666;
+    }
+    .hero-image::before {
+      content: "📡 Device Schematic Placeholder";
+    }
+    .features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 30px;
+      margin-top: 40px;
+    }
+    .feature-card {
+      background: #111;
+      padding: 30px;
+      border-radius: 15px;
+      border: 1px solid #222;
+    }
+    .feature-card h4 {
+      font-size: 1.3rem;
+      margin-bottom: 15px;
+      color: #66a6ff;
+    }
+    .pricing-table {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 30px;
+      margin-top: 40px;
+    }
+    .pricing-card {
+      background: #111;
+      padding: 40px;
+      border-radius: 15px;
+      border: 1px solid #222;
+      text-align: center;
+    }
+    .pricing-card.featured {
+      border: 2px solid #66a6ff;
+      background: #151515;
+    }
+    .pricing-card h4 {
+      font-size: 1.5rem;
+      margin-bottom: 20px;
+      color: #66a6ff;
+    }
+    .price {
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin: 20px 0;
+      color: #89f7fe;
+    }
+    .contact-form {
+      background: #111;
+      padding: 40px;
+      border-radius: 15px;
+      border: 1px solid #222;
+      max-width: 600px;
+      margin: 40px auto 0;
+    }
+    .form-group {
+      margin-bottom: 25px;
+    }
+    label {
+      display: block;
+      margin-bottom: 8px;
+      color: #c0c0c0;
+      font-weight: 500;
+    }
+    input, textarea {
+      width: 100%;
+      padding: 12px;
+      background: #1a1a1a;
+      border: 1px solid #333;
+      border-radius: 8px;
+      color: #e0e0e0;
+      font-size: 1rem;
+      font-family: inherit;
+    }
+    input:focus, textarea:focus {
+      outline: none;
+      border-color: #66a6ff;
+    }
+    footer {
+      text-align: center;
+      padding: 60px 20px;
+      color: #666;
+      font-size: 0.9rem;
+    }
+    .doi-badge {
+      margin: 20px 0;
+    }
+    .doi-badge img {
+      height: 20px;
+    }
+  </style>
+</head>
+<body>
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container">
+      <h1>EDEM Breath Field</h1>
+      <p style="font-size: 1.3rem; color: #a0a0a0; margin-bottom: 30px;">
+        Open Hardware Protocol for 0.1 Hz Breath Coherence
+      </p>
+      <div class="formula">
+        E = A · R · L − S
+      </div>
+      <div class="hero-image"></div>
+      <div style="margin-top: 40px;">
+        <span class="badge">Open Hardware</span>
+        <span class="badge">HRV Coherence</span>
+        <span class="badge">0.1 Hz Resonance</span>
+        <span class="badge">Scientific Protocol</span>
+      </div>
+      <div class="doi-badge">
+        <a href="#" id="doi-link" target="_blank">
+          <img src="#" alt="DOI" id="doi-badge-img" style="display:none;">
+        </a>
+        <span style="color: #666; font-size: 0.9rem;">DOI: <span id="doi-number">10.5281/zenodo.XXXXX</span> (pending)</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Protocol Section -->
+  <section>
+    <div class="container">
+      <h2>0.1 Hz Breath Field Protocol</h2>
+      <p style="font-size: 1.2rem; max-width: 800px;">
+        <strong>Biofeedback hardware protocol for HRV coherence measurement at 0.1 Hz (resonant breathing).</strong>
+      </p>
+      <p>
+        EDEM Breath Field is an open hardware specification that synchronizes breathing rhythm to enhance Heart Rate Variability (HRV) coherence through baroreflex and vagal pathways.
+      </p>
+      <div class="features">
+        <div class="feature-card">
+          <h4>📊 Technical Specification</h4>
+          <p><strong>Frequency:</strong> 0.1 Hz (6 breaths/min)</p>
+          <p><strong>Protocol:</strong> 4-2-6-2 (inhale-hold-exhale-hold)</p>
+          <p><strong>Measurement:</strong> HRV RMSSD enhancement (20-30% improvement)</p>
+        </div>
+        <div class="feature-card">
+          <h4>🔬 Scientific Basis</h4>
+          <p>Connects respiratory rhythm (0.1 Hz) to cardiac coherence (HRV LF band 0.04-0.15 Hz). Validated through experimental measurement protocols.</p>
+        </div>
+        <div class="feature-card">
+          <h4>⚙️ Integration</h4>
+          <p>Arduino-compatible calibration code. Compatible with Polar H10, Whoop, Garmin HRV sensors. Real-time breath-to-HRV synchronization.</p>
+        </div>
+      </div>
+      <div style="margin-top: 40px;">
+        <a href="https://github.com/Sasha777sh/EDEM-Breath-Field" class="btn btn-secondary" target="_blank">View on GitHub</a>
+        <a href="#license" class="btn">Request License PDF</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- License Section -->
+  <section id="license" style="background: #0f0f0f;">
+    <div class="container">
+      <h2>License Options</h2>
+      <p style="font-size: 1.2rem; max-width: 800px;">
+        EDEM Breath Field License v1.0 — Open Hardware with Commercial Rights
+      </p>
+      <div class="pricing-table">
+        <div class="pricing-card">
+          <h4>Open Source</h4>
+          <div class="price">Free</div>
+          <p>For research, education, and non-commercial use</p>
+          <ul style="text-align: left; margin: 20px 0; color: #a0a0a0;">
+            <li>Scientific research</li>
+            <li>Educational projects</li>
+            <li>DIY devices</li>
+            <li>Attribution required</li>
+          </ul>
+        </div>
+        <div class="pricing-card featured">
+          <h4>Royalty Model</h4>
+          <div class="price">3%</div>
+          <p style="font-size: 0.9rem; color: #999;">of revenue</p>
+          <ul style="text-align: left; margin: 20px 0; color: #a0a0a0;">
+            <li>Commercial products</li>
+            <li>Wearable devices</li>
+            <li>SaaS platforms</li>
+            <li>Minimum $500/year</li>
+          </ul>
+          <a href="#contact" class="btn" style="margin-top: 20px;">Request Quote</a>
+        </div>
+        <div class="pricing-card">
+          <h4>Fixed Fee</h4>
+          <div class="price">$500-$5K</div>
+          <p>One-time license fee</p>
+          <ul style="text-align: left; margin: 20px 0; color: #a0a0a0;">
+            <li>Startup: $500-$1000</li>
+            <li>Medium: $2000-$3000</li>
+            <li>Enterprise: $4000-$5000</li>
+            <li>No recurring fees</li>
+          </ul>
+          <a href="#contact" class="btn btn-secondary" style="margin-top: 20px;">Contact Us</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <div class="container">
+      <h2>Request License</h2>
+      <p style="font-size: 1.2rem; max-width: 600px; margin: 0 auto 40px;">
+        Fill out the form below to request a license PDF and integration discussion.
+      </p>
+      <div class="contact-form">
+        <form id="license-form" action="#" method="POST">
+          <div class="form-group">
+            <label for="name">Name *</label>
+            <input type="text" id="name" name="name" required>
+          </div>
+          <div class="form-group">
+            <label for="email">Email *</label>
+            <input type="email" id="email" name="email" required>
+          </div>
+          <div class="form-group">
+            <label for="company">Company / Organization</label>
+            <input type="text" id="company" name="company">
+          </div>
+          <div class="form-group">
+            <label for="license-type">License Type</label>
+            <select id="license-type" name="license-type" style="width: 100%; padding: 12px; background: #1a1a1a; border: 1px solid #333; border-radius: 8px; color: #e0e0e0; font-size: 1rem;">
+              <option value="royalty">Royalty (3%)</option>
+              <option value="fixed">Fixed Fee</option>
+              <option value="hybrid">Hybrid Model</option>
+              <option value="discuss">Let's Discuss</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="message">Project Description / Use Case</label>
+            <textarea id="message" name="message" rows="5"></textarea>
+          </div>
+          <button type="submit" class="btn" style="width: 100%;">Request License PDF</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <p>© 2025 EDEM Breath Field Protocol. Open Hardware License v1.0</p>
+      <p style="margin-top: 10px;">
+        <a href="https://github.com/Sasha777sh/EDEM-Breath-Field" style="color: #66a6ff; text-decoration: none;">GitHub</a> · 
+        <a href="https://zenodo.org" id="zenodo-link" style="color: #66a6ff; text-decoration: none;">Zenodo</a>
+      </p>
+      <p style="margin-top: 20px; color: #444; font-size: 0.8rem;">
+        Author: Aleksandr Shelementev
+      </p>
+    </div>
+  </footer>
+
+  <script>
+    // Update DOI badge when available
+    const doiNumber = '10.5281/zenodo.XXXXX'; // Replace with actual DOI after Zenodo upload
+    const doiBadge = `https://zenodo.org/badge/DOI/${doiNumber.replace('10.5281/zenodo.', '')}.svg`;
+    const doiLink = `https://doi.org/${doiNumber}`;
+
+    if (doiNumber !== '10.5281/zenodo.XXXXX') {
+      document.getElementById('doi-badge-img').src = doiBadge;
+      document.getElementById('doi-badge-img').style.display = 'inline';
+      document.getElementById('doi-link').href = doiLink;
+      document.getElementById('doi-number').textContent = doiNumber;
+      document.getElementById('zenodo-link').href = doiLink;
+    }
+
+    // Form submission (replace with your backend)
+    document.getElementById('license-form').addEventListener('submit', function(e) {
+      e.preventDefault();
+      // Replace with actual form handler
+      alert('Thank you! License request submitted. We will contact you shortly.');
+      // Or send to: your-email@example.com or API endpoint
+    });
+  </script>
+</body>
+</html>
