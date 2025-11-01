@@ -1,7 +1,7 @@
 # Translations / Переводы
 
 - English: [/translations/README.en.md](../../translations/README.en.md)
-- Русский: [/README_RU.md](../../README_RU.md)
+- Русский: [/README_RU.md](../../README_RU.md) · [README_FULL (ru):](/translations/README_FULL.ru.md)
 - Español: [/translations/README.es.md](../../translations/README.es.md)
 - 中文: [/translations/README.zh.md](../../translations/README.zh.md)
 - العربية: [/translations/README.ar.md](../../translations/README.ar.md)
@@ -21,6 +21,7 @@
   
 README_FULL:
 
+- Русский (full): [/translations/README_FULL.ru.md](../../translations/README_FULL.ru.md)
 - Español (full): [/translations/README_FULL.es.md](../../translations/README_FULL.es.md)
 - 中文 (full): [/translations/README_FULL.zh.md](../../translations/README_FULL.zh.md)
 - Tiếng Việt (full): [/translations/README_FULL.vi.md](../../translations/README_FULL.vi.md)
@@ -34,6 +35,7 @@ README_FULL:
 
 One Pager:
 
+- Русский: [/translations/one_pager.ru.md](../../translations/one_pager.ru.md)
 - Español: [/translations/one_pager.es.md](../../translations/one_pager.es.md)
 - 中文: [/translations/one_pager.zh.md](../../translations/one_pager.zh.md)
 - Tiếng Việt: [/translations/one_pager.vi.md](../../translations/one_pager.vi.md)
@@ -47,6 +49,7 @@ One Pager:
 
 Discovery Core:
 
+- Русский: [/translations/discovery_core.ru.md](../../translations/discovery_core.ru.md)
 - Español: [/translations/discovery_core.es.md](../../translations/discovery_core.es.md)
 - 中文: [/translations/discovery_core.zh.md](../../translations/discovery_core.zh.md)
 - Tiếng Việt: [/translations/discovery_core.vi.md](../../translations/discovery_core.vi.md)
@@ -60,6 +63,7 @@ Discovery Core:
 
 Unified Laws:
 
+- Русский: [/translations/unified_laws.ru.md](../../translations/unified_laws.ru.md)
 - Español: [/translations/unified_laws.es.md](../../translations/unified_laws.es.md)
 - 中文: [/translations/unified_laws.zh.md](../../translations/unified_laws.zh.md)
 - Tiếng Việt: [/translations/unified_laws.vi.md](../../translations/unified_laws.vi.md)
@@ -72,6 +76,7 @@ Unified Laws:
 
 Equations:
 
+- Русский: [/translations/equations.ru.md](../../translations/equations.ru.md)
 - Español: [/translations/equations.es.md](../../translations/equations.es.md)
 - 中文: [/translations/equations.zh.md](../../translations/equations.zh.md)
 - Tiếng Việt: [/translations/equations.vi.md](../../translations/equations.vi.md)
@@ -79,6 +84,7 @@ Equations:
 
 Experiments Summary:
 
+- Русский: [/translations/experiments_summary.ru.md](../../translations/experiments_summary.ru.md)
 - Español: [/translations/experiments_summary.es.md](../../translations/experiments_summary.es.md)
 - 中文: [/translations/experiments_summary.zh.md](../../translations/experiments_summary.zh.md)
 - Tiếng Việt: [/translations/experiments_summary.vi.md](../../translations/experiments_summary.vi.md)
