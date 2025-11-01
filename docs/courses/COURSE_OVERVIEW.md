@@ -143,7 +143,14 @@
    - Временная шкала
    - Целевые показатели
 
-**→ Начни с `LAUNCH_CHECKLIST.md` — там всё по шагам.**
+4. **AI Agent Instructions** (`docs/courses/monetization/AI_AGENT_INSTRUCTIONS.md`)
+   - Полная инструкция для AI-агента
+   - Автоматическая публикация на всех платформах
+   - Где брать файлы, куда публиковать
+   - Критерии успеха и логирование
+
+**→ Для ручного запуска: `LAUNCH_CHECKLIST.md`**  
+**→ Для AI-агента: `AI_AGENT_INSTRUCTIONS.md`**
 
 ---
 
