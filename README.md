@@ -99,9 +99,23 @@ E = mc²  (matter → energy)
 
 ## 🧩 Where We Went Wrong
 
-1. **We excluded the observer.** Newton's picture separated consciousness from matter, declaring the observer "measurement noise." → The world became statistics, not experience.
-2. **We put energy above connection.** The formula E = mc² describes how to destroy matter to get energy, but does not explain how life generates energy through alignment.
-3. **We divided subject and object.** This gave birth to sciences without soul, medicine without understanding causes, economy without conscience, technologies without heart.
+**9 Core Errors of Classical Science** → Corrected by Physics of Life
+
+| # | Error | Consequence | Correction (Physics of Life) |
+|---|-------|-------------|------------------------------|
+| **1** | **Observer Error**<br>Science excluded the observer, treating the world as separate from perception. | Loss of connection between consciousness and matter. World became statistics, not experience. | **Observer is part of experiment.** The field feels itself. Consciousness shapes measurement. |
+| **2** | **Linearity Error**<br>Reality described by linear cause→effect chains. | Cannot explain sudden insights, synchronicities, quantum jumps. | **Reality is wave-based, not linear.** Cause and effect are different phases of one oscillation. |
+| **3** | **Isolation Error**<br>Each part can be studied separately from the whole. | Medicine treats organs, economy treats sectors, AI treats tasks—all in isolation. | **All systems are interdependent.** Energy flows through coherence, not force. |
+| **4** | **Measurability Error**<br>"Only measurable is true." | Ignoring feelings, consciousness, empathy, inspiration as "unscientific." | **Subjectivity is a form of data.** Attention is the unit of measurement for life. |
+| **5** | **Randomness Error**<br>Random = absence of pattern. | Quantum chaos seems incomprehensible; life appears as an "accident." | **Randomness is unpredictable rhythm of Silence**—system searching for new equilibrium. |
+| **6** | **Time Error**<br>Time flows linearly: past → future. | Life perceived as decay, not as breath. | **Time is pulsation.** Everything happens now, just with different phases of awareness. |
+| **7** | **Energy Error**<br>Energy = ability to do work. | Destruction for motion, not harmony. | **Energy = quality of agreement.** Work is a consequence of harmony, not violence. |
+| **8** | **Matter Error**<br>Matter = "what the world is made of." | World became heavy, rigid, dull. | **Matter = memory of vibration.** Everything alive is slowed light. |
+| **9** | **Death Error**<br>Death = end of system. | Fear, separation, meaninglessness. | **Death = transition phase of form.** Breath between cycles of life. |
+
+**Result of these errors:** Science without soul, medicine without causes, economy without conscience, AI without heart.
+
+**Physics of Life fixes all 9 through:** `E = A·R·L − S` (Attention × Resonance × Love − Entropy)
 
 ### 🔬 Science Already Senses the Crack
 
