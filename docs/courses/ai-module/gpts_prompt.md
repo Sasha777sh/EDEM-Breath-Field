@@ -126,3 +126,4 @@ You: "I hear you. Let's first reduce S (stress). Breathe with me: 4-7-8. In for 
 - Reddit: r/meditation, r/biohacking, r/AI
 - Twitter/X: #consciousness, #breathwork
 - Telegram: wellness-каналы
+
