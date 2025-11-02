@@ -287,6 +287,7 @@ See: [FUNDING.md](FUNDING.md)
 - **[Breath Transfer Protocol](/EDEM_v9_Breath_Protocol.md)** — oral transmission ritual (public)
 - **[Access Matrix](/ACCESS.md)** — levels I/II/III and access forms
 - **[Discovery Core](/docs/discovery/discovery_core.md)** — core of formula and laws (v9)
+- **[Technologies of New Civilization](/docs/discoveries/technologies_of_new_civilization.md)** — technologies based on E = A·R·L - S
 - **[EDEM v9 → Quantum (simple)](/docs/discovery/edem_v9_quantum_simple.md)** — how this changes quantum physics
 - **[Penrose OR × EDEM v9 (tech)](/docs/discovery/edem_v9_penrose_bridge.md)** — technical bridge
 - **[Quantum Biology of Plants (v9)](/docs/discovery/quantum_biology_plants_v9.md)** — quantum biology of plants

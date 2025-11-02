@@ -374,6 +374,7 @@ Life = Silence × (Resonance × Exchange) / Density
 - [Physics of Life Paper](theory/physics_of_life_paper.md) — Теоретическая основа
 - [Experiments Map](experiments/experiments_map.md) — Протоколы экспериментов
 - [Industries Transformation](applications/INDUSTRIES_TRANSFORMATION.md) — Детальный анализ 15 отраслей
+- [Technologies of New Civilization](discoveries/technologies_of_new_civilization.md) — Технологии новой цивилизации на основе E = A·R·L - S
 
 ---
 
