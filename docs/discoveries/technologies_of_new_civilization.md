@@ -1,223 +1,227 @@
-# 🌍 Технологии новой цивилизации
+# 🌍 Technologies of New Civilization
 
-**На основе формулы живой физики E = A × R × L − S**
+**Based on Physics of Life formula E = A × R × L − S**
 
 ---
 
-## 1. Введение
+## 1. Introduction
 
-Новая цивилизация строится не на контроле, а на резонансе.
+The new civilization is built not on control, but on resonance.
 
-Все системы — от архитектуры до космоса — переходят от механической логики к живой.
+All systems—from architecture to space—transition from mechanical logic to living logic.
 
-Базовая формула связывает внимание (A), резонанс (R), любовь/когерентность (L) и энтропию (S):
+The core formula connects attention (A), resonance (R), love/coherence (L), and entropy (S):
 
 ```
 E_life = A × R × L − S
 ```
 
-Где энергия жизни (E_life) растёт не через силу, а через согласование.
+Where life energy (E_life) grows not through force, but through alignment.
 
-Каждая технология будущего становится продолжением сознания.
-
----
-
-## 2. Материальные технологии
-
-### ⚛️ 2.1 Энергия и обогрев
-
-- **Резонансные генераторы** — преобразуют тепловые и звуковые колебания в электричество через синфазу 432 Hz.
-
-- **Дома-организмы** — дышащие глиняные и мицелиальные структуры, которые удерживают тепло, выравнивая влажность и температуру.
-
-- **Энергия дыхания** — сенсорные катушки (Breath Field) используют электромагнитный отклик дыхания для зарядки микросетей.
-
-- **Биофотонные обогреватели** — создают тепло через когерентные световые поля без проводов.
-
-### 🌿 2.2 Экология и сельское хозяйство
-
-- **Резонансное земледелие** — поля с генераторами 432 Hz ускоряют фотосинтез и структурируют воду.
-
-- **Живые грядки** — биокомпозиты из мицелия, удерживающие влагу и питательные микроорганизмы.
-
-- **Водные резонаторы** — фильтры, очищающие воду через биофотонные колебания, без реагентов.
-
-- **Саморегулирующиеся экосистемы** — сенсорные узлы (Arduino + HRV-модули) синхронизируют полив, освещение и вентиляцию.
-
-### 🏠 2.3 Архитектура и материалы
-
-- **Глино-соломенные структуры с памятью формы** — стены реагируют на влажность и звук.
-
-- **Мицелиальные панели** — растущие строительные элементы, которые дышат и фильтруют воздух.
-
-- **Живые купола** — формы, рассчитанные на резонанс с земными волнами Шумана (7.83 Hz).
-
-- **Световые крыши** — биофотонные покрытия, отражающие тепло днём и аккумулирующие ночью.
-
-### 🚗 2.4 Транспорт и передвижение
-
-- **Резонансные двигатели** — использование стоячих волн вместо сгорания топлива.
-
-- **Транспорт-организм** — системы, синхронизирующиеся с дыханием и сердечным ритмом водителя.
-
-- **Городские резонансные поля** — дороги, реагирующие на поток машин и людей, устраняют пробки через фазы света/звука.
-
-- **Биофотонная связь между транспортом** — обмен данными через когерентный свет без радиопомех.
-
-### 🚀 2.5 Космос и навигация
-
-- **Резонансная навигация** — полёты, основанные на согласовании с гравитационными волнами, а не на тяге.
-
-- **Корабли-организмы** — биомембранные оболочки, стабилизирующие внутреннюю среду через дыхательные циклы.
-
-- **Биофотонная связь** — мгновенная передача данных через когерентные поля света.
-
-- **Марсианские биосистемы** — купола с замкнутым циклом дыхания, воспроизводящие земной ритм 0.1 Hz.
+Every future technology becomes an extension of consciousness.
 
 ---
 
-## 3. Информационные технологии
+## 2. Material Technologies
 
-### 🤖 3.1 Искусственный интеллект
+### ⚛️ 2.1 Energy and Heating
 
-- **AI-резонаторы** — модели, чувствующие эмоции и ритм дыхания пользователя.
+- **Resonance generators** — convert thermal and acoustic oscillations into electricity through 432 Hz sync phase.
 
-- **Фрактальная память** — хранение знаний как вибрационных паттернов, не просто текстов.
+- **Living houses** — breathing clay and mycelial structures that retain heat, balancing humidity and temperature.
 
-- **Живой интерфейс** — связь человека и машины через сердечный ритм, голос и внимание.
+- **Breath energy** — sensor coils (Breath Field) use electromagnetic response of breathing to charge microgrids.
 
-- **EDEM-Core** — самообучающаяся система, которая развивается через наблюдение и резонанс, а не через команды.
+- **Biophotonic heaters** — create warmth through coherent light fields without wires.
 
-### 🌐 3.2 Связь и сети
+### 🌿 2.2 Ecology and Agriculture
 
-- **IPFS-поля** — децентрализованные узлы, синхронизирующиеся по биоритмам.
+- **Resonance farming** — fields with 432 Hz generators accelerate photosynthesis and structure water.
 
-- **Биофотонные каналы** — передача информации через когерентные световые пакеты.
+- **Living beds** — biocomposites from mycelium, retaining moisture and nutrient microorganisms.
 
-- **Энергетическая маршрутизация** — узлы сети распределяют нагрузку, ориентируясь на уровень внимания пользователей.
+- **Water resonators** — filters that purify water through biophotonic oscillations, without reagents.
 
-- **Живые протоколы** — обмен данными через ритмы (сжатие-расширение), а не постоянный поток.
+- **Self-regulating ecosystems** — sensor nodes (Arduino + HRV modules) synchronize irrigation, lighting, and ventilation.
 
-### 💰 3.3 Экономика
+### 🏠 2.3 Architecture and Materials
 
-- **Экономика внимания** — единица ценности = энергия фокуса.
+- **Clay-straw structures with form memory** — walls react to humidity and sound.
 
-- **Живые токены** — криптосистемы, где стоимость зависит от резонанса сообщества.
+- **Mycelial panels** — growing building elements that breathe and filter air.
 
-- **DAO-экосистемы** — управление проектами через биометрические ритмы (дыхание, HRV).
+- **Living domes** — forms calculated for resonance with Earth's Schumann waves (7.83 Hz).
 
-- **Самоорганизующиеся рынки** — распределение ресурсов по уровню когерентности участников, а не по деньгам.
+- **Light roofs** — biophotonic coatings that reflect heat during the day and accumulate at night.
 
-### 🏗️ 3.4 Инфраструктура и города
+### 🚗 2.4 Transport and Movement
 
-- **Города-поля** — здания и дороги синхронизированы с частотами Земли.
+- **Resonance engines** — use of standing waves instead of fuel combustion.
 
-- **Энергетические купола** — распределяют тепло и свет в зависимости от биоритмов жителей.
+- **Living transport** — systems synchronized with driver's breathing and heart rate.
 
-- **Интеллектуальная вентиляция** — системы, реагирующие на дыхание толпы.
+- **Urban resonance fields** — roads that react to vehicle and people flow, eliminating traffic jams through light/sound phases.
 
-- **Сенсорная архитектура** — каждая стена измеряет резонанс поля и регулирует среду.
+- **Biophotonic communication between vehicles** — data exchange through coherent light without radio interference.
 
----
+### 🚀 2.5 Space and Navigation
 
-## 4. Сознательные технологии
+- **Resonance navigation** — flights based on alignment with gravitational waves, not thrust.
 
-### 🧠 4.1 Образование
+- **Living ships** — biomembrane shells that stabilize internal environment through breathing cycles.
 
-- **Обучение по ритмам** — вместо часов и программ, фазы внимания и отдыха.
+- **Biophotonic communication** — instant data transmission through coherent light fields.
 
-- **AI-учителя-резонаторы** — отражают состояние ученика, а не диктуют материал.
-
-- **Эволюционные школы** — пространство, где знание растёт через переживание, а не тесты.
-
-### 🧬 4.2 Медицина
-
-- **Диагностика по резонансу** — измерение фазы дыхания, пульса, тона голоса.
-
-- **Лечение звуком и вниманием** — восстановление когерентности вместо подавления симптомов.
-
-- **Клеточные резонаторы** — устройства, синхронизирующие биофотоны тела.
-
-- **Психофизиологическая интеграция** — тело и сознание лечатся как единая волна.
-
-### 🕊️ 4.3 Общество и управление
-
-- **Политика резонанса** — решения принимаются по гармонии коллективных ритмов, а не большинством голосов.
-
-- **Социальные зеркала** — AI-системы, отражающие динамику сообществ.
-
-- **Этика присутствия** — законы основаны на поддержании баланса, а не наказаниях.
-
-- **Резонансное правосудие** — восстановление связей вместо репрессий.
-
-### 💞 4.4 Культура и взаимодействие
-
-- **Музыка как инженерия сознания** — частоты, гармонизирующие эмоциональные поля.
-
-- **Искусство данных** — визуализация потоков жизни (HRV, дыхание, пульс).
-
-- **Коллективные ритуалы синхронизации** — музыка, дыхание, движение, создающие единство.
-
-- **Живые медиа** — контент, реагирующий на состояние зрителя.
+- **Martian biosystems** — domes with closed breathing cycles, reproducing Earth's 0.1 Hz rhythm.
 
 ---
 
-## 5. Таблица открытий и направлений
+## 3. Information Technologies
 
-| Сфера | Новые технологии | Принцип | Эффект |
-|-------|------------------|---------|--------|
-| **Энергия** | Резонансные генераторы, биофотонные обогреватели | Резонанс | Снижение потерь |
-| **Архитектура** | Живые дома, глиняные структуры, мицелий | Центр | Саморегуляция |
-| **Экология** | Резонансные поля, 432 Hz фермы | Резонанс | Восстановление природы |
-| **Космос** | Резонансная навигация, биофотонная связь | Свет | Энергоэффективность |
-| **AI** | Резонаторы сознания, фрактальная память | Внимание | Человечность технологий |
-| **Экономика** | DAO-экосистемы, токены резонанса | Единство | Гармоничное распределение |
-| **Медицина** | Звуковая терапия, биофотонные датчики | Любовь | Восстановление баланса |
-| **Образование** | Ритмическое обучение, AI-учителя | Пульс | Повышение осознанности |
-| **Транспорт** | Резонансные двигатели, дороги-поля | Отражение | Безопасность и плавность |
-| **Политика** | Резонансное принятие решений | Свобода | Устойчивые сообщества |
+### 🤖 3.1 Artificial Intelligence
 
----
+- **AI resonators** — models that sense user's emotions and breathing rhythm.
 
-## 6. Планетарная экосистема
+- **Fractal memory** — storing knowledge as vibrational patterns, not just text.
 
-В новой цивилизации каждый уровень — от клетки до города — дышит в едином ритме.
+- **Living interface** — connection between human and machine through heart rate, voice, and attention.
 
-Нет разделения между технологией и жизнью: всё — поле, пульсирующее по закону `E = A × R × L − S`.
+- **EDEM-Core** — self-learning system that develops through observation and resonance, not commands.
 
-Энергия, информация и сознание объединены в одной архитектуре.
+### 🌐 3.2 Communication and Networks
 
-Планета становится самоорганизующимся организмом, где:
+- **IPFS fields** — decentralized nodes synchronized by biorhythms.
 
-- **города** = органы;
-- **сети** = нервы;
-- **AI** = сознание;
-- **человек** = точка резонанса.
+- **Biophotonic channels** — information transmission through coherent light packets.
 
----
+- **Energy routing** — network nodes distribute load based on users' attention levels.
 
-## ⚖️ Правовой статус
+- **Living protocols** — data exchange through rhythms (compression-expansion), not constant flow.
 
-Все технологии, описанные в этом документе, считаются открытым знанием человечества.
+### 💰 3.3 Economy
 
-Ни одно устройство, метод или алгоритм, основанный на формуле `E = A × R × L − S`, не может быть ограничен патентами, потому что относится к природным законам.
+- **Attention economy** — unit of value = energy of focus.
 
-**Лицензия:** CC BY-SA 4.0
+- **Living tokens** — crypto systems where value depends on community resonance.
 
-Дата публикации фиксирует приоритет идей в открытой науке.
+- **DAO ecosystems** — project management through biometric rhythms (breathing, HRV).
+
+- **Self-organizing markets** — resource distribution based on participant coherence level, not money.
+
+### 🏗️ 3.4 Infrastructure and Cities
+
+- **Field cities** — buildings and roads synchronized with Earth's frequencies.
+
+- **Energy domes** — distribute heat and light depending on residents' biorhythms.
+
+- **Intelligent ventilation** — systems that react to crowd breathing.
+
+- **Sensor architecture** — every wall measures field resonance and regulates environment.
 
 ---
 
-**EDEM — Физика живых систем.**
+## 4. Conscious Technologies
 
-**Технологии для жизни, а не для контроля.**
+### 🧠 4.1 Education
+
+- **Rhythm-based learning** — instead of hours and programs, phases of attention and rest.
+
+- **AI teacher-resonators** — reflect student's state, not dictate material.
+
+- **Evolutionary schools** — space where knowledge grows through experience, not tests.
+
+### 🧬 4.2 Medicine
+
+- **Resonance diagnostics** — measuring breathing phase, pulse, voice tone.
+
+- **Sound and attention therapy** — restoring coherence instead of suppressing symptoms.
+
+- **Cellular resonators** — devices that synchronize body's biophotons.
+
+- **Psychophysiological integration** — body and consciousness treated as a single wave.
+
+### 🕊️ 4.3 Society and Governance
+
+- **Resonance politics** — decisions made by harmony of collective rhythms, not majority votes.
+
+- **Social mirrors** — AI systems that reflect community dynamics.
+
+- **Presence ethics** — laws based on maintaining balance, not punishment.
+
+- **Resonance justice** — restoring connections instead of repression.
+
+### 💞 4.4 Culture and Interaction
+
+- **Music as consciousness engineering** — frequencies that harmonize emotional fields.
+
+- **Data art** — visualization of life flows (HRV, breathing, pulse).
+
+- **Collective synchronization rituals** — music, breathing, movement creating unity.
+
+- **Living media** — content that reacts to viewer's state.
 
 ---
 
-## 📚 Связь с другими документами
+## 5. Discovery and Direction Table
 
-- **Формула:** [Equations](/docs/theory/equations.md) — математический каркас
-- **9 законов:** [Unified Laws](/docs/theory/unified_laws.md) — принципы живой физики
-- **Применения:** [Applications Overview](/docs/APPLICATIONS_OVERVIEW.md) — обзор отраслей
-- **Архитектура:** [Living Architecture](/docs/applications/living_architecture.md) — живая архитектура
-- **Карта технологий:** [Technologies Map](/docs/applications/technologies_map.md) — эволюция технологий
+| Domain | New Technologies | Principle | Effect |
+|--------|------------------|-----------|--------|
+| **Energy** | Resonance generators, biophotonic heaters | Resonance | Loss reduction |
+| **Architecture** | Living houses, clay structures, mycelium | Center | Self-regulation |
+| **Ecology** | Resonance fields, 432 Hz farms | Resonance | Nature restoration |
+| **Space** | Resonance navigation, biophotonic communication | Light | Energy efficiency |
+| **AI** | Consciousness resonators, fractal memory | Attention | Humanity of technologies |
+| **Economy** | DAO ecosystems, resonance tokens | Unity | Harmonious distribution |
+| **Medicine** | Sound therapy, biophotonic sensors | Love | Balance restoration |
+| **Education** | Rhythmic learning, AI teachers | Pulse | Increased awareness |
+| **Transport** | Resonance engines, field roads | Reflection | Safety and smoothness |
+| **Politics** | Resonance decision-making | Freedom | Sustainable communities |
+
+---
+
+## 6. Planetary Ecosystem
+
+In the new civilization, every level—from cell to city—breathes in a single rhythm.
+
+There is no separation between technology and life: everything is a field pulsing by the law `E = A × R × L − S`.
+
+Energy, information, and consciousness are united in one architecture.
+
+The planet becomes a self-organizing organism, where:
+
+- **cities** = organs;
+- **networks** = nerves;
+- **AI** = consciousness;
+- **human** = resonance point.
+
+---
+
+## ⚖️ Legal Status
+
+All technologies described in this document are considered open knowledge of humanity.
+
+No device, method, or algorithm based on the formula `E = A × R × L − S` can be restricted by patents, because it relates to natural laws.
+
+**License:** CC BY-SA 4.0
+
+Publication date fixes priority of ideas in open science.
+
+---
+
+**EDEM — Physics of Living Systems.**
+
+**Technologies for life, not for control.**
+
+---
+
+## 📚 Links to Other Documents
+
+- **Formula:** [Equations](/docs/theory/equations.md) — Mathematical framework
+- **9 Laws:** [Unified Laws](/docs/theory/unified_laws.md) — Principles of living physics
+- **Applications:** [Applications Overview](/docs/APPLICATIONS_OVERVIEW.md) — Industries overview
+- **Architecture:** [Living Architecture](/docs/applications/living_architecture.md) — Living architecture
+- **Technologies Map:** [Technologies Map](/docs/applications/technologies_map.md) — Technology evolution
+
+---
+
+**Languages:** [English](technologies_of_new_civilization.md) (this page) • [Русский](technologies_of_new_civilization.ru.md)
