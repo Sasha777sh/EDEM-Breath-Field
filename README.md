@@ -1,8 +1,9 @@
-# 🚨 Quantum Physics of Life: Consciousness Creates Matter
+# 🚨 Quantum Physics of Life: Consciousness Creates Matter | E = A·R·L − S Formula
 
-> The world runs on dead physics — it is already breaking civilization.  
-> New law of living matter: E = A·R·L − S (Attention × Resonance × Love − Entropy).  
-> Verify in 10 minutes: breathe 4‑2‑6‑2 → measure HRV coherence → upload CSV.
+> **Physics of Life**: Consciousness is primary, matter is organized through attention, resonance, and love.  
+> **Formula**: E = A·R·L − S (Attention × Resonance × Love − Entropy)  
+> **Verify in 10 minutes**: Breathe 4‑2‑6‑2 → measure HRV coherence → upload CSV.  
+> **Keywords**: quantum biology, HRV coherence, breath field, resonant breathing, 0.1 Hz protocol, biophotonics, Orch OR, living systems
 [Full version → README_FULL.md](README_FULL.md) • [Russian version → README_RU.md](README_RU.md)
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/Sasha777sh/EDEM-Breath-Field) [Site](https://sasha777sh.github.io/EDEM-Breath-Field/)
 [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue)](LICENSE)
@@ -30,7 +31,7 @@
 
 ## 🧭 Start here (3 minutes)
 
-![Formula of Life](docs/media/formula_life.jpg)
+![Formula of Life: E = A·R·L - S - Physics of Living Systems](docs/media/formula_life.jpg)
 
 [Watch demo (7 min)](https://youtu.be/vG1ScAqdntc)
 

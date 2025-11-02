@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "EDEM Breath Field: Quantum Physics of Life",
+  "description": "Open research platform for Physics of Life: E = A·R·L - S formula. HRV coherence protocols, breath field sensors, quantum biology experiments. Consciousness-primary physics framework.",
+  "url": "https://github.com/Sasha777sh/EDEM-Breath-Field",
+  "codeRepository": "https://github.com/Sasha777sh/EDEM-Breath-Field",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr Shelementev",
+    "email": "sibirlesp@gmail.com"
+  },
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "programmingLanguage": ["Python", "C++", "Arduino"],
+  "keywords": [
+    "physics of life",
+    "consciousness creates matter",
+    "E = A·R·L - S",
+    "living physics",
+    "quantum biology",
+    "HRV coherence",
+    "breath field",
+    "resonant breathing",
+    "0.1 Hz breathing",
+    "biophotonics",
+    "Orch OR theory",
+    "quantum consciousness"
+  ],
+  "applicationCategory": "Scientific Software",
+  "operatingSystem": "Cross-platform",
+  "datePublished": "2025-10-25",
+  "dateModified": "2025-11-02",
+  "version": "1.0.0",
+  "formula": "E = A × R × L − S",
+  "formulaExplanation": "Energy of life = Attention × Resonance × Love/Coherence − Entropy/Stress"
+}

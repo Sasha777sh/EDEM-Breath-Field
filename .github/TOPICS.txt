@@ -1,0 +1,45 @@
+# GitHub Topics for EDEM-Breath-Field
+
+Copy these topics to GitHub repository settings → Topics:
+
+physics-of-life
+consciousness-creates-matter
+quantum-biology
+hrv-coherence
+breath-field
+resonant-breathing
+open-hardware
+biophotonics
+orch-or
+penrose-hameroff
+living-systems
+biomodulation
+breath-sensor
+hrv-measurement
+heart-rate-variability
+coherence-protocol
+0.1-hz-breathing
+quantum-consciousness
+living-physics
+attention-resonance-love-entropy
+resonance-synchronization
+breathing-protocol
+baroreflex-pathways
+vagal-pathways
+cardiac-coherence
+arduino
+python
+open-science
+biophysics
+resonance
+consciousness
+living-physics
+biomodulation
+breath-field
+
+---
+
+**Instructions:**
+1. Go to repository settings → Topics
+2. Add topics from this list (max 20 topics on GitHub)
+3. Start with most important: physics-of-life, quantum-biology, hrv-coherence, breath-field
