@@ -289,6 +289,7 @@ See: [FUNDING.md](FUNDING.md)
 - **[Access Matrix](/ACCESS.md)** — levels I/II/III and access forms
 - **[Discovery Core](/docs/discovery/discovery_core.md)** — core of formula and laws (v9)
 - **[Technologies of New Civilization](/docs/discoveries/technologies_of_new_civilization.md)** — technologies based on E = A·R·L - S ([Русский](/docs/discoveries/technologies_of_new_civilization.ru.md))
+- **[Memory of Rhythm: What Existed Before Matter](/docs/theory/memory_of_rhythm.md)** — deepest question about origin of form ([English](/docs/theory/memory_of_rhythm.en.md))
 - **[EDEM v9 → Quantum (simple)](/docs/discovery/edem_v9_quantum_simple.md)** — how this changes quantum physics
 - **[Penrose OR × EDEM v9 (tech)](/docs/discovery/edem_v9_penrose_bridge.md)** — technical bridge
 - **[Quantum Biology of Plants (v9)](/docs/discovery/quantum_biology_plants_v9.md)** — quantum biology of plants
